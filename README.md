@@ -32,3 +32,16 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gyanthakur&" alt="gyanthakur" /></p>
 <p><img align="center" width="120" height="124" src="https://user-images.githubusercontent.com/98226958/226198810-095ba775-14a0-4997-a5ef-bff1383441b5.png" alt="postman api"/></p>
 
+<p><img align="center" width="120" height="124" src="https://user-images.githubusercontent.com/98226958/226200614-f9593db7-5579-41b1-84ae-564244fb6602.jpg
+" alt="postman api"/></p>
+<p><img align="center" width="120" height="124" src="https://user-images.githubusercontent.com/98226958/226200617-7a7c4c73-c889-40a2-8519-40b0d1a34e0d.jpg
+" alt="postman api"/></p>
+<p><img align="center" width="120" height="124" src="https://user-images.githubusercontent.com/98226958/226200618-1bbcd170-b29c-4492-bc1d-f0f59f6df8d1.jpg
+" alt="postman api"/></p>
+<p><img align="center" width="120" height="124" src="https://user-images.githubusercontent.com/98226958/226200620-e4a259ad-3e70-439d-a3ac-18f8da70183c.jpg
+" alt="postman api"/></p>
+<p><img align="center" width="120" height="124" src="https://user-images.githubusercontent.com/98226958/226200622-db4a873f-f4bc-4461-9f75-d0296c38a4d7.jpg
+" alt="postman api"/></p>
+<p><img align="center" width="120" height="124" src="https://user-images.githubusercontent.com/98226958/226200623-ac9ab92a-1303-4c1a-b976-1ce621bb8a4b.jpg
+" alt="postman api"/></p>
+<p><img align="center" width="120" height="124" src="https://user-images.githubusercontent.com/98226958/226200818-49ecbb67-a6e0-4325-8f16-e993d7b9fa13.jpg" alt="postman api"/></p>
