@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gyan Pratap Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Raect, cpp**
+- 🌱 I’m currently learning **React, cpp**
 
 - 👯 I’m looking to collaborate on **react**
 
