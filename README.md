@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gps_96169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gps_96169" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gyan pratap singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gyan pratap singh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gyan-pratap-singh-275785236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gyan pratap singh" height="30" width="40" /></a>
 <a href="https://fb.com/gyan singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gyan singh" height="30" width="40" /></a>
 <a href="https://instagram.com/gp.singh.ro.ckstar4438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gp.singh.ro.ckstar4438" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/gsa96965" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gsa96965" height="30" width="40" /></a>
