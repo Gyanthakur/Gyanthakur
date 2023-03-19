@@ -17,3 +17,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gyanthakur&show_icons=true&locale=en" alt="gyanthakur" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gyanthakur&" alt="gyanthakur" /></p>
+<p><img align="center" src="https://user-images.githubusercontent.com/98226958/226196304-cddd45e0-83f3-4185-b52e-23a77ecf12e8.png" alt="gyanthakur" /></p>
