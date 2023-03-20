@@ -33,10 +33,11 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/gyansingh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gyansingh" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyanthakur&show_icons=true&locale=en&layout=compact" alt="gyanthakur" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyanthakur&show_icons=true&locale=en&layout=compact" alt="gyanthakur" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gyanthakur&show_icons=true&locale=en" alt="gyanthakur" /></p>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gyanthakur&" alt="gyanthakur" /></p><p><img align="center" width="120" height="124" src="https://user-images.githubusercontent.com/98226958/226198810-095ba775-14a0-4997-a5ef-bff1383441b5.png" alt="postman api"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gyanthakur&" alt="gyanthakur" /></p>
+<p><img align="center" width="120" height="124" src="https://user-images.githubusercontent.com/98226958/226198810-095ba775-14a0-4997-a5ef-bff1383441b5.png" alt="postman api"/></p>
