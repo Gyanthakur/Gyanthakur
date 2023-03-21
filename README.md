@@ -38,4 +38,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gyanthakur&show_icons=true&locale=en" alt="gyanthakur" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gyanthakur&" alt="gyanthakur" /></p>
-<p><img align="right" width="120" height="124" src="https://user-images.githubusercontent.com/98226958/226198810-095ba775-14a0-4997-a5ef-bff1383441b5.png" alt="postman api"/></p>
+<p><img align="right" width="125" height="125" src="https://user-images.githubusercontent.com/98226958/226198810-095ba775-14a0-4997-a5ef-bff1383441b5.png" alt="postman api"/></p>
