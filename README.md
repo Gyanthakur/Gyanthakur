@@ -42,5 +42,5 @@
 
 
 
-<p><img alt="github-snake" src="https://user-images.githubusercontent.com/98226958/227784316-896b25f1-ade8-4b35-8f03-1e51dab34ea6.png" style="visibility:visible;max-width:100%;"></p>
+
 
