@@ -38,6 +38,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gyanthakur&show_icons=true&locale=en" alt="gyanthakur" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gyanthakur&" alt="gyanthakur" /></p>
-<p><img align="right" width="130" height="130" src="https://user-images.githubusercontent.com/98226958/226198810-095ba775-14a0-4997-a5ef-bff1383441b5.png" alt="postman api"/></p>
+<p><img align="right" width="135" height="135" src="https://user-images.githubusercontent.com/98226958/226198810-095ba775-14a0-4997-a5ef-bff1383441b5.png" alt="postman api"/></p>
 <p><img align="right" width="145" height="145" margin-bottom="23" src="https://user-images.githubusercontent.com/98226958/227786109-403d570b-8c3d-4773-a39e-fe16bf8caa12.png" alt="postman api"/></p>
 
