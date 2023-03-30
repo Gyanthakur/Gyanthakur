@@ -42,4 +42,4 @@
 <p><img align="right" width="145" height="145" margin-bottom="23" src="https://user-images.githubusercontent.com/98226958/227786109-403d570b-8c3d-4773-a39e-fe16bf8caa12.png" alt="postman api"/></p>
 
 
-<img width="456" margin-top="23"  alt="Screenshot 2023-03-30 202509" src="https://user-images.githubusercontent.com/98226958/228877676-eb004a34-13a7-4abc-9726-e02e2254b309.png">
+<img width="456"  margin-bottom="23"   alt="Screenshot 2023-03-30 202509" src="https://user-images.githubusercontent.com/98226958/228877676-eb004a34-13a7-4abc-9726-e02e2254b309.png">
