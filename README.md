@@ -45,7 +45,7 @@
 <img width="456"  margin-bottom="23"   alt="Screenshot 2023-03-30 202509" src="https://user-images.githubusercontent.com/98226958/228877676-eb004a34-13a7-4abc-9726-e02e2254b309.png">
 
 
-<img src="https://holopin.me/gyansingh" alt="holopin" >
+<!-- <img src="https://holopin.me/gyansingh" alt="holopin" > -->
 
 <img width="109" align="right" alt="Screenshot 2023-03-30 203330" src="https://user-images.githubusercontent.com/98226958/228880301-69263798-f0e5-47e8-8ec6-9b7161170723.png">
 <img width="132" align="right" alt="Screenshot 2023-03-30 203342" src="https://user-images.githubusercontent.com/98226958/228880424-5318ba84-2206-4c65-b8f9-8e43bc22cc6a.png">
