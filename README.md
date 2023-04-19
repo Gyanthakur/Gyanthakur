@@ -47,6 +47,6 @@
 
 <!-- <img src="[https://holopin.me/gyansingh" alt="holopin" > -->
 
-<img width="109" align="right" alt="Screenshot 2023-03-30 203330" src="https://user-images.githubusercontent.com/98226958/228880301-69263798-f0e5-47e8-8ec6-9b7161170723.png">
-<img width="132" align="right" alt="Screenshot 2023-03-30 203342" src="https://user-images.githubusercontent.com/98226958/228880424-5318ba84-2206-4c65-b8f9-8e43bc22cc6a.png">
-<img width="126" align="right" alt="Screenshot 2023-03-30 203408" src="https://user-images.githubusercontent.com/98226958/228880452-adb5ae95-2071-4c9e-a9fa-a9713d8ffa1a.png">
+<!-- <img width="109" align="right" alt="Screenshot 2023-03-30 203330" src="https://user-images.githubusercontent.com/98226958/228880301-69263798-f0e5-47e8-8ec6-9b7161170723.png"> -->
+<!-- <img width="132" align="right" alt="Screenshot 2023-03-30 203342" src="https://user-images.githubusercontent.com/98226958/228880424-5318ba84-2206-4c65-b8f9-8e43bc22cc6a.png"> -->
+<!-- <img width="126" align="right" alt="Screenshot 2023-03-30 203408" src="https://user-images.githubusercontent.com/98226958/228880452-adb5ae95-2071-4c9e-a9fa-a9713d8ffa1a.png"> -->
