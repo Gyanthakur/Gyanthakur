@@ -58,3 +58,8 @@
 
 <!-- <style><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji></style> -->
 <!-- <img alt="github-snake" src="https://user-images.githubusercontent.com/98267696/227596364-a77212cb-a077-4a41-9a3e-5900fb86c255.svg" style="visibility:visible;max-width:100%;"> -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-user-contribution.svg" />
+</picture>
