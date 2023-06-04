@@ -55,5 +55,6 @@
 <!-- <img width="132" align="right" alt="Screenshot 2023-03-30 203342" src="https://user-images.githubusercontent.com/98226958/228880424-5318ba84-2206-4c65-b8f9-8e43bc22cc6a.png"> -->
 <!-- <img width="126" align="right" alt="Screenshot 2023-03-30 203408" src="https://user-images.githubusercontent.com/98226958/228880452-adb5ae95-2071-4c9e-a9fa-a9713d8ffa1a.png"> -->
 
-<style>
-<g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji></style>
+
+<!-- <style><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji></style> -->
+<img alt="github-snake" src="https://user-images.githubusercontent.com/98267696/227596364-a77212cb-a077-4a41-9a3e-5900fb86c255.svg" style="visibility:visible;max-width:100%;">
