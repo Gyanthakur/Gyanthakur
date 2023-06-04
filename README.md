@@ -57,9 +57,9 @@
 
 
 <!-- <style><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji></style> -->
-<!-- <img alt="github-snake" src="https://user-images.githubusercontent.com/98267696/227596364-a77212cb-a077-4a41-9a3e-5900fb86c255.svg" style="visibility:visible;max-width:100%;"> -->
-<picture>
+<img alt="github-snake" src="https://github.com/octocat/octocat.github.io/commit/67c0afc1da354d8571f51b6f0af8f2794117fd10.patch" style="visibility:visible;max-width:100%;">
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-Gyanthakur-contribution.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-Gyanthakur-contribution.svg" />
   <img alt="github-snake" src="github-Gyanthakur-contribution.svg" />
-</picture>
+</picture> -->
