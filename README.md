@@ -59,3 +59,4 @@
 
 <!-- <style><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji></style> -->
 <!-- <img alt="github-snake" src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/72dc6197-9fec-4dc2-808b-d242ee497330.svg" style="visibility:visible;max-width:100%;"> -->
+<a href="https://quine.sh/user/Gyanthakur"><img width="320" alt="Screenshot 2023-09-25 234524" src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/85a5d609-af43-40c4-b84a-17e95bbc8d04"></a>
