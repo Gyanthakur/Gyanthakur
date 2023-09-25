@@ -59,7 +59,10 @@
 
 <!-- <style><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji></style> -->
 <!-- <img alt="github-snake" src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/72dc6197-9fec-4dc2-808b-d242ee497330.svg" style="visibility:visible;max-width:100%;"> -->
-<a href="https://quine.sh/user/Gyanthakur" rel="nofollow"><img width="320" alt="Screenshot 2023-09-25 234524" src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/85a5d609-af43-40c4-b84a-17e95bbc8d04"></a>
+ <!--  <a href="https://quine.sh/user/Gyanthakur" rel="nofollow"><img width="320" alt="Screenshot 2023-09-25 234524" src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/85a5d609-af43-40c4-b84a-17e95bbc8d04"></a> -->
 
+<img align="left" width="320" alt="Screenshot 2023-09-25 234524" src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/85a5d609-af43-40c4-b84a-17e95bbc8d04">
+<img align="right" width="331" alt="Screenshot 2023-09-25 234452" src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/1952ed42-cca8-4e0a-b415-859ae5233eb8">
+<img align="left" width="355" alt="Screenshot 2023-09-25 234429" src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/64dd74b0-52c6-4bfe-8037-ab0c0b55c77d">
+<img align="right" width="426" alt="Screenshot 2023-09-25 234349" src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/ccf1cce7-0ac6-4013-a776-d5f2fc3dfe97">
 
-<p><a href="https://quine.sh/user/Gyanthakur"> <img width="320" alt="Screenshot 2023-09-25 234524" src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/85a5d609-af43-40c4-b84a-17e95bbc8d04"></a></p>
