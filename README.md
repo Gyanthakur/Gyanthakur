@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **react**
 
-- 💬 Ask me about **react, html, css, javaScript,**
+- 💬 Ask me about **react, html, css, javaScript, dsa**
 
 - 📫 How to reach me **gps.96169@gmail.com**
 
