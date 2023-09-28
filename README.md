@@ -75,3 +75,4 @@
 <img align="right" width="426" alt="qnine" src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/84a69b41-45a0-4e29-a684-e044d2ef4b12">
 
 <img margin-top=10 align="center" width="947" alt="hactoberfest" src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/2513f694-6025-4214-b49c-e86b810b9fde">
+<p dir="auto"><a href="https://quine.sh?utm_source=widgets&amp;utm_campaign=Gyanthakur" rel="nofollow"><img src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/85a5d609-af43-40c4-b84a-17e95bbc8d04" alt="Gyan Pratap Singh GitHub | Stats" data-canonical-src="https://stats.quine.sh/Gyanthakur/github?theme=dark" style="max-width: 100%;"></a></p>
