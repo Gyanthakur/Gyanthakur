@@ -63,6 +63,9 @@
 
 
 
+<a href="https://www.codechef.com/users/gyan_singh96" target="blank"><img align="left" width="320" alt="Screenshot 2023-09-25 234524" src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/85a5d609-af43-40c4-b84a-17e95bbc8d04"/></a>
+
+
 
 <img align="left" width="320" alt="Screenshot 2023-09-25 234524" src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/85a5d609-af43-40c4-b84a-17e95bbc8d04">
 <img align="right" width="331" alt="Screenshot 2023-09-25 234452" src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/1952ed42-cca8-4e0a-b415-859ae5233eb8">
