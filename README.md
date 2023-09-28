@@ -67,7 +67,7 @@
 
 
 
-<img align="left" width="320" alt="Screenshot 2023-09-25 234524" <a href="https://quine.sh/user/Gyanthakur" rel="nofollow"></a>src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/85a5d609-af43-40c4-b84a-17e95bbc8d04">
+<img align="left" width="320" alt="Screenshot 2023-09-25 234524"src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/85a5d609-af43-40c4-b84a-17e95bbc8d04">  <a href="https://quine.sh/user/Gyanthakur" rel="nofollow"></a>
 <img align="right" width="331" alt="Screenshot 2023-09-25 234452" src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/1952ed42-cca8-4e0a-b415-859ae5233eb8">
 <img align="left" width="355" alt="Screenshot 2023-09-25 234429" src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/64dd74b0-52c6-4bfe-8037-ab0c0b55c77d">
 <img align="right" width="426" alt="Screenshot 2023-09-25 234349" src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/ccf1cce7-0ac6-4013-a776-d5f2fc3dfe97">
