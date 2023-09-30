@@ -6,7 +6,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gyanthakur" alt="gyanthakur" /></a> </p> -->
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=Gyanthakur&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=gyanthakur&theme=algolia&margin-w=10" alt="gyanthakur" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/gps_96169" target="blank"><img src="https://img.shields.io/twitter/follow/gps_96169?logo=twitter&style=for-the-badge" alt="gps_96169" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=Gyanthakur&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=gyanthakur&theme=algolia&margin-w=10" alt="gyanthakur" /></a> </p>
 
 - 🌱 I’m currently learning **React, cpp, dsa, git, next**
 
