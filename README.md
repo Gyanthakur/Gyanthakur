@@ -3,6 +3,10 @@
 <p dir="auto"><a href="https://holopin.io/@gyansingh" rel="nofollow"><img src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/7503ffa0-fd0c-4d53-845f-46127e4973dc" alt="An image of @gyansingh's Holopin badges, which is a link to view their full Holopin profile" data-canonical-src="https://holopin.me/gyansingh" style="max-width: 100%;"></a>
 
 
+<p dir="auto"><a href="https://holopin.io/@gyansingh" rel="nofollow"><img src="https://camo.githubusercontent.com/6f054ba5b33059a11ae5d5e95a50cb88623c740ec07b5c2a8a635c5c77c5b520/68747470733a2f2f686f6c6f70696e2e6d652f687567656b6f6e7472617374" alt="An image of @gyansingh's Holopin badges, which is a link to view their full Holopin profile" data-canonical-src="https://holopin.me/gyansingh" style="max-width: 100%;"></a>
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanthakur&label=Profile%20views&color=0e75b6&style=flat" alt="gyanthakur" /> </p>
 
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gyanthakur" alt="gyanthakur" /></a> </p> 
