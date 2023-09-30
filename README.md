@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/gps_96169" target="blank"><img src="https://img.shields.io/twitter/follow/gps_96169?logo=twitter&style=for-the-badge" alt="gps_96169" /></a> </p>
 
-- 🌱 I’m currently learning **React, cpp, dsa, git**
+- 🌱 I’m currently learning **React, cpp, dsa, git, next**
 
 - 👯 I’m looking to collaborate on **react**
 
