@@ -75,13 +75,9 @@
  [![Gyanthakur's GitHub | Stats](https://stats.quine.sh/Gyanthakur/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gyanthakur)
  [![Gyanthakur's GitHub | Dependencies](https://stats.quine.sh/Gyanthakur/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gyanthakur)
  [![Gyanthakur's GitHub | Topics Over Time](https://stats.quine.sh/Gyanthakur/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gyanthakur)
+[![Gyanthakur's GitHub | Languages Over Time](https://stats.quine.sh/Gyanthakur/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gyanthakur)
 
 
 
-
-<img align="left" width="320" alt="Screenshot 2023-09-25 234524" src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/85a5d609-af43-40c4-b84a-17e95bbc8d04">
-<img align="right" width="331" alt="Screenshot 2023-09-25 234452" src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/1952ed42-cca8-4e0a-b415-859ae5233eb8">
-<img align="left" width="355" alt="Screenshot 2023-09-25 234429" src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/64dd74b0-52c6-4bfe-8037-ab0c0b55c77d">
-<img align="right" width="426" alt="qnine" src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/84a69b41-45a0-4e29-a684-e044d2ef4b12">
 
 <img margin-top=10 align="center" width="947" alt="hactoberfest" src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/2513f694-6025-4214-b49c-e86b810b9fde">
