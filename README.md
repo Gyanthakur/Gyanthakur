@@ -9,9 +9,8 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gyanthakur-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gyanthakur" alt="gyanthakur" /></a> </p> 
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gyanthakur&theme=juicyfresh" alt="gyanthakur" /></a> </p> 
 
 
 
