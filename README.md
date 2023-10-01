@@ -4,11 +4,11 @@
 
 
 
-<p dir="auto"><a href="https://holopin.io/@gyansingh" rel="nofollow"><img width="714" alt="Screenshot 2023-09-30 220124" src="[https://github.com/Gyanthakur/Gyanthakur/assets/98226958/5d8a0b94-35ad-42d7-b944-612c42539b31](https://holopin.io/@gyansingh)" data-canonical-src="https://holopin.me/gyansingh" style="max-width: 100%;"></a>
+<p dir="auto"><a href="https://holopin.io/@gyansingh" rel="nofollow"><img width="714" alt="Screenshot 2023-09-30 220124" src="[!https://github.com/Gyanthakur/Gyanthakur/assets/98226958/5d8a0b94-35ad-42d7-b944-612c42539b31](https://holopin.io/@gyansingh)" data-canonical-src="https://holopin.me/gyansingh" style="max-width: 100%;"></a>
 
 
 
-<p dir="auto"><a href="https://holopin.io/@gyansingh" rel="nofollow"><img width="714" src="[!https://github.com/Gyanthakur/Gyanthakur/assets/98226958/eed428e9-8a01-4e2d-94d5-198bb9856e69](https://holopin.io/@gyansingh)" alt="An image of @gyansingh's Holopin badges, which is a link to view their full Holopin profile" data-canonical-src="https://holopin.me/gyansingh" style="max-width: 100%;"></a>
+<p dir="auto"><a href="https://holopin.io/@gyansingh" rel="nofollow"><img width="714" src="[https://github.com/Gyanthakur/Gyanthakur/assets/98226958/eed428e9-8a01-4e2d-94d5-198bb9856e69](https://holopin.io/@gyansingh)" alt="An image of @gyansingh's Holopin badges, which is a link to view their full Holopin profile" data-canonical-src="https://holopin.me/gyansingh" style="max-width: 100%;"></a>
 
 
 
