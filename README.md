@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Fulstack web developer from India And MERN intern at WebStack Academy</h3>
 
 
-
+[![Update and Deploy to GitHub Pages](https://github.com/Gyanthakur/Gyanthakur/actions/workflows/main.yml/badge.svg)](https://github.com/Gyanthakur/Gyanthakur/actions/workflows/main.yml)
 
 <p dir="auto"><a href="https://holopin.io/@gyansingh" rel="nofollow"><img width="830" src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/5d8a0b94-35ad-42d7-b944-612c42539b31" data-canonical-src="https://holopin.me/gyansingh" style="max-width: 100%;"></a>
 
