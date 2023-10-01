@@ -4,7 +4,7 @@
 
 
 
-<p dir="auto"><a href="https://holopin.io/@gyansingh" rel="nofollow"><img width="714" alt="Screenshot 2023-09-30 220124" src="[![An image of @gyansingh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gyansingh)](https://holopin.io/@gyansingh)" data-canonical-src="https://holopin.me/gyansingh" style="max-width: 100%;"></a>
+<p dir="auto"><a href="https://holopin.io/@gyansingh" rel="nofollow"><img width="714" alt="Screenshot 2023-09-30 220124" src="[(https://holopin.io/@gyansingh](https://github.com/Gyanthakur/Gyanthakur/assets/98226958/5d8a0b94-35ad-42d7-b944-612c42539b31)" data-canonical-src="https://holopin.me/gyansingh" style="max-width: 100%;"></a>
 
 
 
