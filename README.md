@@ -11,7 +11,7 @@
 
 
 
- <p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gyanthakur&theme=juicyfresh&ma=10" alt="gyanthakur" /></a> </p> 
+ <p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gyanthakur&theme=juicyfresh&margin-w=10" alt="gyanthakur" /></a> </p> 
 
 
 
