@@ -71,14 +71,19 @@
 
 
 
-<p margin-w=15>
+
 
  [![Gyanthakur's GitHub | Stats](https://stats.quine.sh/Gyanthakur/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gyanthakur)
+ <br>
  [![Gyanthakur's GitHub | Dependencies](https://stats.quine.sh/Gyanthakur/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gyanthakur)
- [![Gyanthakur's GitHub | Topics Over Time](https://stats.quine.sh/Gyanthakur/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gyanthakur)
-[![Gyanthakur's GitHub | Languages Over Time](https://stats.quine.sh/Gyanthakur/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gyanthakur)
 
-</p>
+ <br>
+ [![Gyanthakur's GitHub | Topics Over Time](https://stats.quine.sh/Gyanthakur/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gyanthakur)
+ <br>
+[![Gyanthakur's GitHub | Languages Over Time](https://stats.quine.sh/Gyanthakur/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gyanthakur)
+<br>
+
+
 
 
 <img margin-top=10 align="center" width="947" alt="hactoberfest" src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/2513f694-6025-4214-b49c-e86b810b9fde">
