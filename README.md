@@ -74,7 +74,7 @@
 
 
  [![Gyanthakur's GitHub | Stats](https://stats.quine.sh/Gyanthakur/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gyanthakur)
- <br>
+ 
  [![Gyanthakur's GitHub | Dependencies](https://stats.quine.sh/Gyanthakur/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gyanthakur)
 
  <br>
