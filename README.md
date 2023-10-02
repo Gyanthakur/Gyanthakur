@@ -78,8 +78,11 @@
  [![Gyanthakur's GitHub | Dependencies](https://stats.quine.sh/Gyanthakur/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gyanthakur)
 
  <br>
+ 
  [![Gyanthakur's GitHub | Topics Over Time](https://stats.quine.sh/Gyanthakur/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gyanthakur)
+ 
  <br>
+ 
 [![Gyanthakur's GitHub | Languages Over Time](https://stats.quine.sh/Gyanthakur/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gyanthakur)
 <br>
 
