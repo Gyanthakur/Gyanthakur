@@ -68,7 +68,7 @@
 <!-- <img alt="github-snake" src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/72dc6197-9fec-4dc2-808b-d242ee497330.svg" style="visibility:visible;max-width:100%;"> -->
  <!--  <a href="https://quine.sh/user/Gyanthakur" rel="nofollow"><img width="320" alt="Screenshot 2023-09-25 234524" src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/85a5d609-af43-40c4-b84a-17e95bbc8d04"></a> -->
 
-
+.[![Gyanthakur's appWrite | Stash](https://cloud.appwrite.io/card/65182a83e4d240739611)
 
 .[![Gyanthakur's appWrite | Stash](https://cloud.appwrite.io/v1/cards/cloud?userId=65182a83e4d240739611)
 
