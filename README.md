@@ -57,12 +57,21 @@
 <br>
 <br>
 
-![Gyanthakur's hackSquad | Stash](https://github.com/Gyanthakur/Gyanthakur/assets/98226958/109822b7-e58b-4bbf-a72c-1068fbd16d19)
+
 
 <br>
 
 ![Gyanthakur's appWrite | Stash](https://cloud.appwrite.io/v1/cards/cloud?userId=65182a83e4d240739611)
 
+<br>
+![Gyanthakur's hackSquad | Stash](https://github.com/Gyanthakur/Gyanthakur/assets/98226958/109822b7-e58b-4bbf-a72c-1068fbd16d19)
+
+
+
+<div style="text-align: left">  [![Gyanthakur's GitHub | Stats](https://stats.quine.sh/Gyanthakur/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gyanthakur)  </div>
+
+
+<div style="text-align: right">  [![Gyanthakur's GitHub | Dependencies](https://stats.quine.sh/Gyanthakur/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gyanthakur) </div>
 
  [![Gyanthakur's GitHub | Stats](https://stats.quine.sh/Gyanthakur/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gyanthakur)
  
