@@ -64,15 +64,12 @@
 <!-- <img width="126" align="right" alt="Screenshot 2023-03-30 203408" src="https://user-images.githubusercontent.com/98226958/228880452-adb5ae95-2071-4c9e-a9fa-a9713d8ffa1a.png"> -->
 
 
-<!-- <style><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji></style> -->
-<!-- <img alt="github-snake" src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/72dc6197-9fec-4dc2-808b-d242ee497330.svg" style="visibility:visible;max-width:100%;"> -->
- <!--  <a href="https://quine.sh/user/Gyanthakur" rel="nofollow"><img width="320" alt="Screenshot 2023-09-25 234524" src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/85a5d609-af43-40c4-b84a-17e95bbc8d04"></a> -->
 
-.[![Gyanthakur's hackSquad | Stash](https://github.com/Gyanthakur/Gyanthakur/assets/98226958/109822b7-e58b-4bbf-a72c-1068fbd16d19)
+![Gyanthakur's hackSquad | Stash](https://github.com/Gyanthakur/Gyanthakur/assets/98226958/109822b7-e58b-4bbf-a72c-1068fbd16d19)
 
 <br>
 
-.[![Gyanthakur's appWrite | Stash](https://cloud.appwrite.io/v1/cards/cloud?userId=65182a83e4d240739611)
+![Gyanthakur's appWrite | Stash](https://cloud.appwrite.io/v1/cards/cloud?userId=65182a83e4d240739611)
 
 
  [![Gyanthakur's GitHub | Stats](https://stats.quine.sh/Gyanthakur/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gyanthakur)
