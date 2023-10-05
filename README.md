@@ -51,7 +51,7 @@
 
 <p align="center" >
 
-<img align="right" width="130" height="130" src="https://user-images.githubusercontent.com/98226958/226198810-095ba775-14a0-4997-a5ef-bff1383441b5.png" alt="postman api"/>
+<img align="left" width="130" height="130" src="https://user-images.githubusercontent.com/98226958/226198810-095ba775-14a0-4997-a5ef-bff1383441b5.png" alt="postman api"/>
 
 <img align="right" width="140" height="140" margin-bottom="23" src="https://user-images.githubusercontent.com/98226958/227786109-403d570b-8c3d-4773-a39e-fe16bf8caa12.png" alt="postman api"/>
 
