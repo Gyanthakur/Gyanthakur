@@ -9,8 +9,6 @@
 
 
 
-
-
  <p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gyanthakur&theme=juicyfresh&margin-w=10" alt="gyanthakur" /></a> </p> 
 
 
@@ -48,7 +46,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gyanthakur&" alt="gyanthakur" /></p>
 
 
-
 <p align="center" >
 
 <img align="left" width="130" height="130" src="https://user-images.githubusercontent.com/98226958/226198810-095ba775-14a0-4997-a5ef-bff1383441b5.png" alt="postman api"/>
@@ -62,31 +59,14 @@
 
 </p>
 
-
-
 <br>
 <br>
 
-
-
-<br>
-
-![Gyanthakur's appWrite | Stash](https://cloud.appwrite.io/v1/cards/cloud?userId=65182a83e4d240739611)
-
-<br>
-
-![Gyanthakur's hackSquad | Stash](https://github.com/Gyanthakur/Gyanthakur/assets/98226958/109822b7-e58b-4bbf-a72c-1068fbd16d19)
-
-
-
-<p align="center">
 
  [![Gyanthakur's GitHub | Stats](https://stats.quine.sh/Gyanthakur/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gyanthakur)
  
  [![Gyanthakur's GitHub | Dependencies](https://stats.quine.sh/Gyanthakur/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gyanthakur)
  
-</p>
-
 
  <br>
  
@@ -98,7 +78,12 @@
 
 <br>
 
+![Gyanthakur's appWrite | Stash](https://cloud.appwrite.io/v1/cards/cloud?userId=65182a83e4d240739611)
 
+<br>
 
+![Gyanthakur's hackSquad | Stash](https://github.com/Gyanthakur/Gyanthakur/assets/98226958/109822b7-e58b-4bbf-a72c-1068fbd16d19)
+
+<br>
 
 <img margin-top=10 align="center" width="947" alt="hactoberfest" src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/2513f694-6025-4214-b49c-e86b810b9fde">
