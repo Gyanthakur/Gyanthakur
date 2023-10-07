@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gyan Pratap Singh</h1>
 <h3 align="center">A passionate Fulstack web developer from India And MERN intern at WebStack Academy</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanthakur&label=Profile%20views&color=0e75b6&style=flat" alt="gyanthakur" /> </p>
-![Visitor Count](https://profile-counter.glitch.me/{Gyanthakur})
+![Visitor Count](https://profile-counter.glitch.me/Gyanthakur)
 
 [![An image of @gyansingh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gyansingh)](https://holopin.io/@gyansingh)
 
