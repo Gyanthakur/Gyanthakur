@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Fulstack web developer from India And MERN intern at WebStack Academy</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanthakur&label=Profile%20views&color=0e75b6&style=flat" alt="gyanthakur" /> </p>
 
-<p align="center"> <img src="https://profile-counter.glitch.me/username=gyanthakur&label=Profile%20views&color=0e75b6&style=flat/count.svg" alt="gyanthakur" /> </p>
+
 
 <p align="center"> <img src="https://profile-counter.glitch.me/Gyanthakur/count.svg" alt="gyanthakur" /> </p>
 
