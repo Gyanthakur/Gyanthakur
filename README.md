@@ -2,14 +2,9 @@
 <h3 align="center">A passionate Fulstack web developer from India And MERN intern at WebStack Academy</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanthakur&label=Profile%20views&color=0e75b6&style=flat" alt="gyanthakur" /> </p>
 
-<p align="center">
- 
-![Visitor Count](https://profile-counter.glitch.me/Gyanthakur/count.svg)
 
 
-</p>
-
-<p align="left"> <img src="https://profile-counter.glitch.me/Gyanthakur/count.svg" alt="gyanthakur" /> </p>
+<p align="center"> <img src="https://profile-counter.glitch.me/Gyanthakur/count.svg" alt="gyanthakur" /> </p>
 
 [![An image of @gyansingh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gyansingh)](https://holopin.io/@gyansingh)
 
