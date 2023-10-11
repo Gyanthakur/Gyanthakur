@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gyan Pratap Singh</h1>
 <h3 align="center">A passionate Fulstack web developer from India And MERN intern at WebStack Academy</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanthakur&label=Profile%20views&color=0e75b6&style=flat" alt="gyanthakur" /> </p>
+<p align="left" width="130"> <img src="https://komarev.com/ghpvc/?username=gyanthakur&label=Profile%20views&color=0e75b6&style=flat" alt="gyanthakur" /> </p>
 
 
 
