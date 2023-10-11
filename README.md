@@ -97,7 +97,3 @@
 
 <a name="contributors"></a>
 
-## 👥 Contributors
-<a href="https://github.com/Gyanthakur/e_learning_website/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Gyanthakur/e_learning_website" />
-</a>
