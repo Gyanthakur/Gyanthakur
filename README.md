@@ -93,6 +93,10 @@
 
 <br>
 
+
+![image](https://github.com/Gyanthakur/Gyanthakur/assets/98226958/f639a82a-f577-4e74-a4a8-3a1660d20cc9)
+
+
 <img margin-top=10 align="center" width="947" alt="hactoberfest" src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/2513f694-6025-4214-b49c-e86b810b9fde">
 
 
