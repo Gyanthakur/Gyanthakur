@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Fulstack web developer from India And MERN intern at WebStack Academy</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanthakur&label=Profile%20views&color=0e75b6&style=flat" alt="gyanthakur" /> </p>
 
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
+![github-user-contribution](https://github.com/Gyanthakur/Gyanthakur/assets/98226958/931a4c6e-0764-496e-ae5e-d98d27680d65)
+
 
 
 
