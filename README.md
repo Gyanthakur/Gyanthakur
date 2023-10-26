@@ -106,4 +106,7 @@
 
 <img width="942" alt="image" src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/0f86bb1c-7208-469f-98e5-b9fca5721e3c">
 
+<img width="945" alt="image" src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/5a67e47d-fdea-482f-8a96-4c9ab5b243c0">
+
+
 
