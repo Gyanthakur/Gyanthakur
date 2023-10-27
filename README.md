@@ -73,6 +73,13 @@
 
 </p>
 
+<p>
+
+<img align="left" width="249" alt="Screenshot 2023-10-27 102821" src="https://github.com/Gyanthakur/Dev_Profiles/assets/98226958/4c80d341-8f2c-426a-bec4-934b9208d40f">
+<img align="right" width="248" alt="Screenshot 2023-10-27 102831" src="https://github.com/Gyanthakur/Dev_Profiles/assets/98226958/7382384a-dc75-41d1-8661-046212d3f059">
+
+ 
+</p>
 <br>
 <br>
 
