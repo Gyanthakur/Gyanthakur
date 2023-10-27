@@ -7,17 +7,6 @@
 
 
 
-<div align="space-between" >
- 
-
- 
-[![An image of @gyansingh's Holopin badges, which is a link to view their full Holopin profile](https://res.cloudinary.com/practicaldev/image/fetch/s--6KMAU4wT--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/242/Contributor.png)](https://dev.to/gyanthakur) 
-
- [![An image of @gyansingh's Holopin badges, which is a link to view their full Holopin profile](https://res.cloudinary.com/practicaldev/image/fetch/s--2eJWlG6q--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/241/Pledge.png)](https://dev.to/gyanthakur) 
-
-</div>
-
-
 
 
 <p align="center"> <img src="https://profile-counter.glitch.me/Gyanthakur/count.svg" alt="gyanthakur" /> </p>
@@ -70,21 +59,34 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gyanthakur&" alt="gyanthakur" /></p>
 
+<p align="center">
+ 
+[![An image of @gyansingh's Holopin badges, which is a link to view their full Holopin profile](https://res.cloudinary.com/practicaldev/image/fetch/s--6KMAU4wT--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/242/Contributor.png)](https://dev.to/gyanthakur) 
+
+ 
+</p>
 
 <p align="center" >
 
 <img align="left" width="130" height="130" src="https://user-images.githubusercontent.com/98226958/226198810-095ba775-14a0-4997-a5ef-bff1383441b5.png" alt="postman api"/>
 
-<img width="130" alt="Screenshot 2023-10-27 102821" src="https://github.com/Gyanthakur/Dev_Profiles/assets/98226958/4c80d341-8f2c-426a-bec4-934b9208d40f">
+
 
 
 <img  width="130" height="140" margin-bottom="23" src="https://user-images.githubusercontent.com/98226958/233100546-23d8cede-1786-46bf-a3f2-dee12686ea18.png" alt="Google arcade level 1"/>
 
 <img  width="130" height="140" margin-bottom="23" src="https://user-images.githubusercontent.com/98226958/233100503-a245ec94-6775-46c5-9f46-fad0379e4784.png" alt="Google arcade level 2"/>
 
-<img width="130" alt="Screenshot 2023-10-27 102831" src="https://github.com/Gyanthakur/Dev_Profiles/assets/98226958/7382384a-dc75-41d1-8661-046212d3f059">
+
 
 <img align="right"  width="140" height="140" margin-bottom="23" src="https://user-images.githubusercontent.com/98226958/227786109-403d570b-8c3d-4773-a39e-fe16bf8caa12.png" alt="postman api"/>
+
+</p>
+
+<p align="center">
+
+ 
+ [![An image of @gyansingh's Holopin badges, which is a link to view their full Holopin profile](https://res.cloudinary.com/practicaldev/image/fetch/s--2eJWlG6q--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/241/Pledge.png)](https://dev.to/gyanthakur) 
 
 </p>
 
