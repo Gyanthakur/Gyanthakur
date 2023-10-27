@@ -115,7 +115,6 @@
 
 ![Gyanthakur's hackSquad | Stash](https://github.com/Gyanthakur/Gyanthakur/assets/98226958/109822b7-e58b-4bbf-a72c-1068fbd16d19)
 
-<br>
 
 
 
@@ -123,7 +122,6 @@
 
 <img margin-top=10 align="center" width="947" alt="hactoberfest" src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/2513f694-6025-4214-b49c-e86b810b9fde">
 
-<br>
 
 <img width="942" alt="image" src="https://github.com/Gyanthakur/Gyanthakur/assets/98226958/0f86bb1c-7208-469f-98e5-b9fca5721e3c">
 
