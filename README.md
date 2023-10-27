@@ -5,6 +5,7 @@
 ![github-user-contribution](https://github.com/Gyanthakur/Gyanthakur/assets/98226958/931a4c6e-0764-496e-ae5e-d98d27680d65)
 
 
+![image](https://github.com/Gyanthakur/Gyanthakur/assets/98226958/d9d4e204-93f1-4931-a64d-2017e22425dd)
 
 
 
@@ -12,7 +13,7 @@
 
 [![Update and Deploy to GitHub Pages](https://github.com/Gyanthakur/Dev_Profiles/assets/98226958/4c80d341-8f2c-426a-bec4-934b9208d40f)](https://dev.to/gyanthakur)
 
-[![Update and Deploy to GitHub Pages](https://dev.to/gyanthakur)](https://github.com/Gyanthakur/Dev_Profiles/assets/98226958/4c80d341-8f2c-426a-bec4-934b9208d40f)
+[![An image of @gyansingh's Dev.to badges, which is a link to view their full Holopin profile](https://github.com/Gyanthakur/Gyanthakur/assets/98226958/d9d4e204-93f1-4931-a64d-2017e22425dd)](https://dev.to/gyanthakur)
 
 [![An image of @gyansingh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gyansingh)](https://holopin.io/@gyansingh)
 
