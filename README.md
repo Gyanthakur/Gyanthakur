@@ -5,7 +5,7 @@
 ![github-user-contribution](https://github.com/Gyanthakur/Gyanthakur/assets/98226958/931a4c6e-0764-496e-ae5e-d98d27680d65)
 
 
-[![An image of @gyansingh's Holopin badges, which is a link to view their full Holopin profile](https://res.cloudinary.com/practicaldev/image/fetch/s--6KMAU4wT--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/242/Contributor.png)](https://dev.to/gyanthakur)
+[! align="right"  [An image of @gyansingh's Holopin badges, which is a link to view their full Holopin profile](https://res.cloudinary.com/practicaldev/image/fetch/s--6KMAU4wT--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/242/Contributor.png)](https://dev.to/gyanthakur)
 
 
 [![An image of @gyansingh's Holopin badges, which is a link to view their full Holopin profile](https://res.cloudinary.com/practicaldev/image/fetch/s--2eJWlG6q--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/241/Pledge.png)](https://dev.to/gyanthakur)
@@ -78,13 +78,6 @@
 
 </p>
 
-<p>
-
-<img align="left" width="249" alt="Screenshot 2023-10-27 102821" src="https://github.com/Gyanthakur/Dev_Profiles/assets/98226958/4c80d341-8f2c-426a-bec4-934b9208d40f">
-<img align="right" width="248" alt="Screenshot 2023-10-27 102831" src="https://github.com/Gyanthakur/Dev_Profiles/assets/98226958/7382384a-dc75-41d1-8661-046212d3f059">
-
- 
-</p>
 <br>
 <br>
 
