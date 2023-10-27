@@ -10,6 +10,10 @@
 
 <p align="center"> <img src="https://profile-counter.glitch.me/Gyanthakur/count.svg" alt="gyanthakur" /> </p>
 
+[![Update and Deploy to GitHub Pages](https://github.com/Gyanthakur/Dev_Profiles/assets/98226958/4c80d341-8f2c-426a-bec4-934b9208d40f)](https://dev.to/gyanthakur)
+
+[![Update and Deploy to GitHub Pages](https://dev.to/gyanthakur)](https://github.com/Gyanthakur/Dev_Profiles/assets/98226958/4c80d341-8f2c-426a-bec4-934b9208d40f)
+
 [![An image of @gyansingh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gyansingh)](https://holopin.io/@gyansingh)
 
 
