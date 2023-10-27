@@ -5,7 +5,7 @@
 ![github-user-contribution](https://github.com/Gyanthakur/Gyanthakur/assets/98226958/931a4c6e-0764-496e-ae5e-d98d27680d65)
 
 
-<div>
+<div display="inline-block" >
 
 <p align="left" 
  
