@@ -59,9 +59,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gyanthakur&" alt="gyanthakur" /></p>
 
-<p align="center">
+<p align="center"
  
-[![An image of @gyansingh's Holopin badges, which is a link to view their full Holopin profile](https://res.cloudinary.com/practicaldev/image/fetch/s--6KMAU4wT--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/242/Contributor.png)](https://dev.to/gyanthakur) 
+[![An image of @gyansingh's Holopin badges, which is a link to view their full Holopin profile](https://res.cloudinary.com/practicaldev/image/fetch/s--6KMAU4wT--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/242/Contributor.png)](https://dev.to/gyanthakur) >
 
  
 </p>
@@ -83,10 +83,10 @@
 
 </p>
 
-<p align="center">
+<p align="center"
 
  
- [![An image of @gyansingh's Holopin badges, which is a link to view their full Holopin profile](https://res.cloudinary.com/practicaldev/image/fetch/s--2eJWlG6q--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/241/Pledge.png)](https://dev.to/gyanthakur) 
+ [![An image of @gyansingh's Holopin badges, which is a link to view their full Holopin profile](https://res.cloudinary.com/practicaldev/image/fetch/s--2eJWlG6q--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/241/Pledge.png)](https://dev.to/gyanthakur) >
 
 </p>
 
