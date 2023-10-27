@@ -5,7 +5,7 @@
 ![github-user-contribution](https://github.com/Gyanthakur/Gyanthakur/assets/98226958/931a4c6e-0764-496e-ae5e-d98d27680d65)
 
 
-[![image](https://github.com/Gyanthakur/Gyanthakur/assets/98226958/d9d4e204-93f1-4931-a64d-2017e22425dd)](https://dev.to/gyanthakur)
+[![image](https://github.com/Gyanthakur/Gyanthakur/assets/98226958/d9d4e204-93f1-4931-a64d-2017e22425dd)](https://holopin.io/@gyansingh)
 
 
 
