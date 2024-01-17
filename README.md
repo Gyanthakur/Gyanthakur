@@ -5,11 +5,11 @@
 ![github-user-contribution](https://github.com/Gyanthakur/Gyanthakur/assets/98226958/931a4c6e-0764-496e-ae5e-d98d27680d65)
 
 
-
-
-
-
 <p align="center"> <img src="https://profile-counter.glitch.me/Gyanthakur/count.svg" alt="gyanthakur" /> </p>
+
+
+
+![github-user-contribution (1)](https://github.com/Gyanthakur/Gyanthakur/assets/98226958/b13502c8-432d-4a95-a4cd-20522e5c3efc)
 
 
 
