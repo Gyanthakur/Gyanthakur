@@ -9,11 +9,6 @@
 
 
 
-![github-user-contribution (1)](https://github.com/Gyanthakur/Gyanthakur/assets/98226958/b13502c8-432d-4a95-a4cd-20522e5c3efc)
-
-
-
-
 [![An image of @gyansingh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gyansingh)](https://holopin.io/@gyansingh)
 
 
