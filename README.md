@@ -22,7 +22,7 @@
 
 
 
-- 🌱 I’m currently learning **React, cpp, dsa, git, next, PostgreSQL**
+- 🌱 I’m currently learning **React, cpp, dsa, git, nextjs,**
 
 - 👯 I’m looking to collaborate on **react**
 
