@@ -2,6 +2,9 @@
 <h3 align="center">A passionate Fulstack web developer from India And Ex-MERN intern at WebStack academy 2023</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanthakur&label=Profile%20views&color=0e75b6&style=flat" alt="gyanthakur" /> </p>
 
+![github-user-contribution (2)](https://github.com/user-attachments/assets/88af7fbf-a3d1-4d35-9646-8a0d002a6df3)
+
+
 ![github-user-contribution](https://github.com/Gyanthakur/Gyanthakur/assets/98226958/931a4c6e-0764-496e-ae5e-d98d27680d65)
 
 
