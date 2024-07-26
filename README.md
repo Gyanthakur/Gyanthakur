@@ -35,8 +35,7 @@
 - 💬 Ask me about **react, html, css, javaScript, next.js, dsa**
 
 - 📫 How to reach me **gps.96169@gmail.com**
-
- ![image](https://github.com/user-attachments/assets/e1c26ad8-8864-4a77-9a71-a8295cc1c6a9)
+- 
 - <p><img align="center" height="20px" width="20px" src="https://github.com/user-attachments/assets/e1c26ad8-8864-4a77-9a71-a8295cc1c6a9" alt="whatsapp" />+918957818597</p>
 
 WhatsApp me 
