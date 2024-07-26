@@ -36,6 +36,9 @@
 
 - 📫 How to reach me **gps.96169@gmail.com**
 
+- ![image](https://github.com/user-attachments/assets/e1c26ad8-8864-4a77-9a71-a8295cc1c6a9)
+WhatsApp me +918957818597
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gps_96169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gps_96169" height="30" width="40" /></a>
