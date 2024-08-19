@@ -61,15 +61,13 @@ WhatsApp me
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyanthakur&show_icons=true&locale=en&layout=compact" alt="gyanthakur" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyanthakur&show_icons=true&locale=en&layout=compact" alt="gyanthakur" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?user=Gyanthakur&theme=radical&show_icons=true&locale=en&layout=compact" alt="gyanthakur" /></p>
 
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gyanthakur&show_icons=true&locale=en" alt="gyanthakur" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gyanthakur&" alt="gyanthakur" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gyanthakur&theme=radical" alt="gyanthakur" /></p>
 
 <p align="center"
  
