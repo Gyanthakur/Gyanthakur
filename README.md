@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Fulstack web developer from India And Ex-MERN intern at WebStack academy 2023</h3>
  <p> <img align="center" src="https://komarev.com/ghpvc/?username=gyanthakur&label=Profile%20views&color=0e75b6&style=flat" alt="gyanthakur" /> </p>
 <p><img align="center" height="20px" width="20px"  src="https://github.com/user-attachments/assets/e1c26ad8-8864-4a77-9a71-a8295cc1c6a9" alt="whatsapp" />  +91 895 7818 597</p>
+[![Click Me](https://img.shields.io/badge/WhatsApp-Click%20Me-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/918957818597)
 
 <!-- ![github-user-contribution (2)](https://github.com/user-attachments/assets/88af7fbf-a3d1-4d35-9646-8a0d002a6df3) -->
 
