@@ -6,6 +6,27 @@
 [![Click Me](https://img.shields.io/badge/WhatsApp-Click%20Me-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/918957818597)
 ## About Me
 
+👋 Hello everyone!
+
+😄 My name is Gyan Pratap Singh, and I’m passionate about creating innovative web applications and exploring the world of coding.
+
+💻 I focus on building dynamic projects using technologies like Next.js, Tailwind CSS, and MongoDB.
+
+🚀 Recently, I developed a job portal app and an e-learning site, and I’m constantly working on improving my coding skills.
+
+🧠 I enjoy problem-solving, particularly in optimizing algorithms and enhancing user experiences.
+
+🌟 Currently, I'm diving into building interactive components and enhancing my knowledge of React and API management.
+
+### My current tech stack includes:
+
+- HTML, CSS, JavaScript
+- Next.js + Tailwind CSS
+- MongoDB
+- React Testing Library
+- Clerk / Supabase
+
+
 - **E-Learning Developer**: Created a comprehensive e-learning site using HTML, CSS, and JavaScript, featuring multiple courses and YouTube video integrations.
 - **Job Portal Creator**: Developed a job portal application utilizing Next.js, TailwindCSS, and MongoDB, implementing modern design and functionality.
 - **Text Utilities Application**: Designed a text-utils site that allows users to manipulate text easily, including features for converting cases, counting words, and removing extra spaces.
