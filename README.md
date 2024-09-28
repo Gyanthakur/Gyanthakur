@@ -27,12 +27,6 @@
 - Clerk / Supabase
 
 
-- **E-Learning Developer**: Created a comprehensive e-learning site using HTML, CSS, and JavaScript, featuring multiple courses and YouTube video integrations.
-- **Job Portal Creator**: Developed a job portal application utilizing Next.js, TailwindCSS, and MongoDB, implementing modern design and functionality.
-- **Text Utilities Application**: Designed a text-utils site that allows users to manipulate text easily, including features for converting cases, counting words, and removing extra spaces.
-- **Open Source Contributor**: Actively participated in Hacktoberfest 2023, contributing to various open-source projects and enhancing collaborative software development.
-- **Web Development Intern**: Completed an internship as a Web Developer at Web Stack Academy, where I developed responsive web applications using the MERN stack and integrated payment gateways.
-- **API Specialist**: Recognized as a Postman Student Expert, showcasing my proficiency in API development and management for efficient application functionality.
 
 
 <!-- ![github-user-contribution (2)](https://github.com/user-attachments/assets/88af7fbf-a3d1-4d35-9646-8a0d002a6df3) -->
