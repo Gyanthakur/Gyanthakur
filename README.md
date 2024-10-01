@@ -8,12 +8,12 @@
 
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
- <p align="left">
+
   <a href="https://wa.me/918957818597?text=Hey%20%F0%9F%91%8B%2C%20how%20can%20I%20help%20you%3F">
     <img src="https://img.shields.io/badge/WhatsApp-Click%20Me-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp" />
   </a>
-  </p>
- <p align="right">
+ 
+ <p align="right" width="40px>
   <img src="https://komarev.com/ghpvc/?username=gyanthakur&label=Profile%20views&color=0e75b6&style=flat" alt="gyanthakur" /> </p>
 </div>
 
