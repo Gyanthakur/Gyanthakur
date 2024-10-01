@@ -51,13 +51,17 @@
 
 <p align="center"> <img src="https://profile-counter.glitch.me/Gyanthakur/count.svg" alt="gyanthakur" /> </p>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Gyanthakur/count.svg" alt="gyanthakur" />
+</p>
+
 
 
 [![An image of @gyansingh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gyansingh)](https://holopin.io/@gyansingh)
 
 
 
-[![Update and Deploy to GitHub Pages](https://github.com/Gyanthakur/Gyanthakur/actions/workflows/main.yml/badge.svg)](https://github.com/Gyanthakur/Gyanthakur/actions/workflows/main.yml)
+
 
 
 
