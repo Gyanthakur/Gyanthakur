@@ -65,7 +65,7 @@
 
  <p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gyanthakur&theme=juicyfresh&margin-w=10" alt="gyanthakur" /></a> </p> 
 
-[![Gyan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gyanthakur&bg_color=000000&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gyanthakur&bg_color=000000&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 - 🌱 I’m currently learning **React, cpp, dsa, git, nextjs,**
 
