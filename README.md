@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-Click%20Me-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp" />
   </a>
  
- <p align="right" width="40px>
+ <p align="right" width="40px">
   <img src="https://komarev.com/ghpvc/?username=gyanthakur&label=Profile%20views&color=0e75b6&style=flat" alt="gyanthakur" /> </p>
 </div>
 
