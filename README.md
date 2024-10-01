@@ -3,7 +3,6 @@
  <p> <img align="center" src="https://komarev.com/ghpvc/?username=gyanthakur&label=Profile%20views&color=0e75b6&style=flat" alt="gyanthakur" /> </p>
 <p><img align="center" height="20px" width="20px"  src="https://github.com/user-attachments/assets/e1c26ad8-8864-4a77-9a71-a8295cc1c6a9" alt="whatsapp" />  +91 895 7818 597</p>
 
-[![Click Me](https://img.shields.io/badge/WhatsApp-Click%20Me-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/918957818597?https://wa.me/918957818597?text=Hey%20%F0%9F%91%8B%2C%20how%20can%20I%20help%20you%3F))
 [![Click Me](https://img.shields.io/badge/WhatsApp-Click%20Me-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/918957818597?text=Hey%20%F0%9F%91%8B%2C%20how%20can%20I%20help%20you%3F)
 ## About Me
 
