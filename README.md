@@ -51,9 +51,6 @@
 
 <p align="center"> <img src="https://profile-counter.glitch.me/Gyanthakur/count.svg" alt="gyanthakur" /> </p>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Gyanthakur/count.svg" alt="gyanthakur" />
-</p>
 
 
 
