@@ -73,6 +73,11 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gyanthakur&theme=aura" alt="Most Commit Language" width="45%" />
 </div>
 
+<div style="display: flex; justify-content: space-between;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gyanthakur&theme=aura" alt="GitHub Stats" width="45%" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gyanthakur&theme=aura&utcOffset=8" alt="Productive Time" width="45%" />
+</div>
+
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gyanthakur&bg_color=000000&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 - 🌱 I’m currently learning **React, cpp, dsa, git, nextjs,**
