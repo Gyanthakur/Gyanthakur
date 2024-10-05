@@ -125,7 +125,7 @@ WhatsApp me
 
 
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 30px;">
   
   <a href="https://dev.to/gyanthakur">
     <img width="150" height="150" src="https://res.cloudinary.com/practicaldev/image/fetch/s--6KMAU4wT--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/242/Contributor.png" alt="Holopin Badge">
