@@ -12,7 +12,6 @@ Feel free to connect with me or check out my projects!
 
   <img src="https://komarev.com/ghpvc/?username=gyanthakur&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </div>
-- 📫 How to reach me **gps.96169@gmail.com**
 
 I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and the **MERN stack**. Currently pursuing a **Bachelor's in Computer Science** at Kamla Nehru Institute of Technology, Sultanpur, I enjoy building innovative solutions, optimizing code, and constantly learning new technologies.
 
