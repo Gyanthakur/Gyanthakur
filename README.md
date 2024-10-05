@@ -114,7 +114,7 @@ WhatsApp me
 
 
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=gyanthakur&show_icons=true&locale=en&theme=radical" alt="gyanthakur GitHub Stats" width="45%" height="200px" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyanthakur&theme=radical" alt="gyanthakur GitHub Streak" width="45%" height="200px" />
 </div>
@@ -123,36 +123,27 @@ WhatsApp me
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gyanthakur&" alt="gyanthakur" /></p> -->
 
-<p align="center"
- 
-[![An image of @gyansingh's Holopin badges, which is a link to view their full Holopin profile](https://res.cloudinary.com/practicaldev/image/fetch/s--6KMAU4wT--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/242/Contributor.png)](https://dev.to/gyanthakur) >
-
- 
-</p>
-
-<p align="center" >
-
-<img align="left" width="170" height="170" src="https://user-images.githubusercontent.com/98226958/226198810-095ba775-14a0-4997-a5ef-bff1383441b5.png" alt="postman api"/>
 
 
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  
+  <a href="https://dev.to/gyanthakur">
+    <img width="150" height="150" src="https://res.cloudinary.com/practicaldev/image/fetch/s--6KMAU4wT--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/242/Contributor.png" alt="Holopin Badge">
+  </a>
+  
+  <img width="170" height="170" src="https://user-images.githubusercontent.com/98226958/226198810-095ba775-14a0-4997-a5ef-bff1383441b5.png" alt="Postman API">
 
+  <img width="150" height="150" src="https://user-images.githubusercontent.com/98226958/233100546-23d8cede-1786-46bf-a3f2-dee12686ea18.png" alt="Google Arcade Level 1">
+  
+  <img width="150" height="150" src="https://user-images.githubusercontent.com/98226958/233100503-a245ec94-6775-46c5-9f46-fad0379e4784.png" alt="Google Arcade Level 2">
+  
+  <img width="150" height="150" src="https://user-images.githubusercontent.com/98226958/227786109-403d570b-8c3d-4773-a39e-fe16bf8caa12.png" alt="Postman API">
+  
+  <a href="https://dev.to/gyanthakur">
+    <img width="150" height="150" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2eJWlG6q--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/241/Pledge.png" alt="Holopin Badge">
+  </a>
 
-<img  width="150" height="150" margin-bottom="23" src="https://user-images.githubusercontent.com/98226958/233100546-23d8cede-1786-46bf-a3f2-dee12686ea18.png" alt="Google arcade level 1"/>
-
-<img  width="150" height="150" margin-bottom="23" src="https://user-images.githubusercontent.com/98226958/233100503-a245ec94-6775-46c5-9f46-fad0379e4784.png" alt="Google arcade level 2"/>
-
-
-
-<img align="right"  width="150" height="150" margin-bottom="23" src="https://user-images.githubusercontent.com/98226958/227786109-403d570b-8c3d-4773-a39e-fe16bf8caa12.png" alt="postman api"/>
-
-</p>
-
-<p align="center"
-
- 
- [![An image of @gyansingh's Holopin badges, which is a link to view their full Holopin profile](https://res.cloudinary.com/practicaldev/image/fetch/s--2eJWlG6q--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/241/Pledge.png)](https://dev.to/gyanthakur) >
-
-</p>
+</div>
 
 <br>
 <br>
