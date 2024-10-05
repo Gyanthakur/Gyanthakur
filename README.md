@@ -155,10 +155,15 @@ WhatsApp me
 <br>
 
 
- [![Gyanthakur's GitHub | Stats](https://stats.quine.sh/Gyanthakur/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gyanthakur)
- 
- [![Gyanthakur's GitHub | Dependencies](https://stats.quine.sh/Gyanthakur/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gyanthakur)
- 
+<div style="display: flex; justify-content: space-between;">
+    <a href="https://quine.sh?utm_source=widgets&utm_campaign=Gyanthakur">
+        <img src="https://stats.quine.sh/Gyanthakur/github?theme=dark" alt="Gyanthakur's GitHub | Stats" width="45%" />
+    </a>
+    <a href="https://quine.sh?utm_source=widgets&utm_campaign=Gyanthakur">
+        <img src="https://stats.quine.sh/Gyanthakur/dependencies?theme=dark" alt="Gyanthakur's GitHub | Dependencies" width="45%" />
+    </a>
+</div>
+
 
  <br>
  
