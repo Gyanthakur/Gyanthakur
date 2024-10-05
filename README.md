@@ -1,41 +1,31 @@
-<h1 align="center">Hi 👋, I'm Gyan Pratap Singh</h1>
-<h3 align="center">A passionate Fulstack web developer from India And Ex-MERN intern at WebStack academy 2023</h3>
+## 👋 Hi, I'm Gyan Pratap Singh!
 
+I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and the **MERN stack**. Currently pursuing a **Bachelor's in Computer Science** at Kamla Nehru Institute of Technology, Sultanpur, I enjoy building innovative solutions, optimizing code, and constantly learning new technologies.
 
+### 🌱 What I'm Working On:
+- Enhancing my skills in **Next.js**, **TailwindCSS**, and **Material UI**.
+- Building and optimizing web apps with **MongoDB** and **Supabase**.
+- Contributing to **open-source projects** and participating in hackathons.
 
+### 💡 Interests:
+- Problem-solving and algorithmic challenges.
+- Creating responsive, dynamic UIs with an emphasis on user experience.
+- API development and integration with tools like **Postman**.
+
+### 🛠️ Tech Stack:
+- Frontend: **ReactJS**, **Next.js**, **HTML5**, **CSS3**, **JavaScript**.
+- Backend: **Node.js**, **Express**, **MongoDB**.
+- Tools: **Git**, **Postman**, **Clerk**, **Supabase**.
+
+Feel free to connect with me or check out my projects!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/gyan-pratap-singh-4549471b1/)
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-
   <a href="https://wa.me/918957818597?text=Hey%20%F0%9F%91%8B%2C%20how%20can%20I%20help%20you%3F">
     <img src="https://img.shields.io/badge/WhatsApp-Click%20Me-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp" />
   </a>
- 
- 
   <img src="https://komarev.com/ghpvc/?username=gyanthakur&label=Profile%20views&color=0e75b6&style=flat" alt="gyanthakur" /> 
 </div>
-
-
-
-### About Me
-
-👋 Hello everyone!
-
-😄 My name is Gyan Pratap Singh, and I’m passionate about creating innovative web applications and exploring the world of coding.
-
-💻 I focus on building dynamic projects using technologies like Next.js, Tailwind CSS, and MongoDB.
-
-🚀 Recently, I developed a job portal app and an e-learning site, and I’m constantly working on improving my coding skills.
-
-🧠 I enjoy problem-solving, particularly in optimizing algorithms and enhancing user experiences.
-
-🌟 Currently, I'm diving into building interactive components and enhancing my knowledge of React and API management.
-
-### My current tech stack includes:
-
-- HTML, CSS, JavaScript
-- Next.js + Tailwind CSS
-- MongoDB
-- React Testing Library
-- Clerk / Supabase
 
 
 
