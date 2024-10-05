@@ -116,7 +116,7 @@ WhatsApp me
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=gyanthakur&show_icons=true&locale=en&theme=radical" alt="gyanthakur GitHub Stats" width="45%" height="200px" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyanthakur&theme=radical" alt="gyanthakur GitHub Streak" width="45%" height="200px" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyanthakur&theme=radical" alt="gyanthakur GitHub Streak" width="45%" height="250px" />
 </div>
 
 
