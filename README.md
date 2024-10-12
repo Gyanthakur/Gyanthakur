@@ -128,7 +128,7 @@ I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and
 
 
   
-- <p><img align="center" height="20px" width="20px" src="https://github.com/user-attachments/assets/e1c26ad8-8864-4a77-9a71-a8295cc1c6a9" alt="whatsapp" />  +91 895 7818 597</p>
+
 
 
 
