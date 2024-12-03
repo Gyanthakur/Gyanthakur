@@ -83,9 +83,9 @@ I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and
 
 
 
+<!--
 
-
- ![github-user-contribution (2)](https://github.com/user-attachments/assets/88af7fbf-a3d1-4d35-9646-8a0d002a6df3) 
+ ![github-user-contribution (2)](https://github.com/user-attachments/assets/88af7fbf-a3d1-4d35-9646-8a0d002a6df3) -->
 
 ![github-user-contribution_31](https://github.com/user-attachments/assets/6cd6590d-68da-41ce-9e2b-9bc3568d899a)
 
