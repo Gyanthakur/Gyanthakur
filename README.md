@@ -201,6 +201,45 @@ I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and
 
 </div>
 
+
+<br>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 30px; text-align: center;">
+
+  <a href="https://dev.to/gyanthakur">
+    <img width="150" height="150" src="https://res.cloudinary.com/practicaldev/image/fetch/s--6KMAU4wT--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/242/Contributor.png" alt="Holopin Badge">
+  </a>
+
+  <img width="170" height="170" src="https://user-images.githubusercontent.com/98226958/226198810-095ba775-14a0-4997-a5ef-bff1383441b5.png" alt="Postman API">
+
+  <img width="150" height="150" src="https://user-images.githubusercontent.com/98226958/233100546-23d8cede-1786-46bf-a3f2-dee12686ea18.png" alt="Google Arcade Level 1">
+  
+  <img width="150" height="150" src="https://user-images.githubusercontent.com/98226958/233100503-a245ec94-6775-46c5-9f46-fad0379e4784.png" alt="Google Arcade Level 2">
+
+  <img width="150" height="150" src="https://user-images.githubusercontent.com/98226958/227786109-403d570b-8c3d-4773-a39e-fe16bf8caa12.png" alt="Postman API">
+  
+  <a href="https://dev.to/gyanthakur">
+    <img width="150" height="150" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2eJWlG6q--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/241/Pledge.png" alt="Holopin Badge">
+  </a>
+  
+  <a href="https://dev.to/gyanthakur">
+    <img width="150" height="150" src="https://github.com/user-attachments/assets/29f79f16-9bd8-43a0-95f5-e94d1c3d5fc5" alt="Badge">
+  </a>
+  
+  <a href="https://dev.to/gyanthakur">
+    <img width="150" height="150" src="https://github.com/user-attachments/assets/2a64bc30-3806-4136-af3f-8c5db02cac4c" alt="Badge">
+  </a>
+  
+  <a href="https://dev.to/gyanthakur">
+    <img width="150" height="150" src="https://github.com/user-attachments/assets/3219f036-deee-4d6b-8119-e9ec94036edf" alt="Badge">
+  </a>
+  
+  <a href="https://dev.to/gyanthakur">
+    <img width="150" height="150" src="https://github.com/user-attachments/assets/a38b7210-2d2b-4c7e-b3fb-fdbd37a455cc" alt="Badge">
+  </a>
+
+</div>
+
+
 <br>
 <br>
 
