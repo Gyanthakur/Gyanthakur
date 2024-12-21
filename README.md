@@ -177,6 +177,21 @@ I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and
   <a href="https://dev.to/gyanthakur">
     <img width="150" height="150" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2eJWlG6q--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/241/Pledge.png" alt="Holopin Badge">
   </a>
+  <a href="https://dev.to/gyanthakur">
+   ![image](https://github.com/user-attachments/assets/29f79f16-9bd8-43a0-95f5-e94d1c3d5fc5)
+  </a>
+  <a href="https://dev.to/gyanthakur">
+   ![image](https://github.com/user-attachments/assets/2a64bc30-3806-4136-af3f-8c5db02cac4c)
+
+  </a>
+  <a href="https://dev.to/gyanthakur">
+   ![image](https://github.com/user-attachments/assets/3219f036-deee-4d6b-8119-e9ec94036edf)
+
+  </a>
+  <a href="https://dev.to/gyanthakur">
+   ![Uploading image.png…]()
+
+  </a>
 
 </div>
 
