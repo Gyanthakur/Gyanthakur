@@ -26,7 +26,7 @@ I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and
 - API development and integration with tools like **Postman**.
 
 ### 🛠️ Tech Stack:
-- Frontend: **ReactJS**, **Next.js**, **HTML5**, **CSS3**, **JavaScript**.
+- Frontend: **ReactJS**, **Next.js**, **HTML**, **CSS3**, **JavaScript**.
 - Backend: **Node.js**, **Express**, **MongoDB**.
 - Tools: **Git**, **GitHub**, **Postman**, **Clerk**, **Supabase**.
 
