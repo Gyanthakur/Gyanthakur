@@ -16,7 +16,7 @@ Feel free to connect with me or check out my projects!
 I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and the **MERN stack**. Currently pursuing a **Bachelor's in Computer Science** at Kamla Nehru Institute of Technology, Sultanpur, I enjoy building innovative solutions, optimizing code, and constantly learning new technologies.
 
 ### 🌱 What I'm Working On:
-- Enhancing my skills in **Next.js**, **React.js**, **TailwindCSS**, and **Material UI**.
+- Enhancing my skills in **Next.js**, **React.js**, **Vite**, **TailwindCSS**, and **Material UI**.
 - Building and optimizing web apps with **MongoDB** and **Supabase**.
 - Contributing to **open-source projects** and participating in hackathons.
 
