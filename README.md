@@ -28,7 +28,7 @@ I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and
 ### 🛠️ Tech Stack:
 - Frontend: **ReactJS**, **Next.js**, **HTML**, **CSS3**, **JavaScript**.
 - Backend: **Node.js**, **Express**, **MongoDB**.
-- Tools: **Git**, **GitHub**, **Postman**, **Clerk**, **Supabase**.
+- Tools: **Git**, **GitHub**, **Postman**, **Clerk**, **Supabase**, **Convex**.
 
   ### Connect with me:
 
