@@ -18,7 +18,7 @@ I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and
 ### 🌱 What I'm Working On:
 - Enhancing my skills in **Next.js**, **React.js**, **Vite**, **TailwindCSS**, and **Material UI**, **Aceternity UI**.
 - Building and optimizing web apps with **MongoDB** and **Supabase**.
-- Contributing to **open-source projects** and participating in hackathons.
+- Contributing to **open-source projects** and participating in hackathon.
 
 ### 💡 Interests:
 - Problem-solving and algorithmic challenges.
