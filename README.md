@@ -1,3 +1,8 @@
+<div align="center">
+  
+[<img src="https://api.gitsponsors.com/api/badge/img?id=700320934" height="20">](https://api.gitsponsors.com/api/badge/link?p=bUtkTsCviWRTKdfZ/bS6brhn1pzNAZ34+TqQs97JFF09t5VnXwbjAMqCbj+EKO9/)
+
+</div>
 ## 👋 Hi, I'm Gyan Pratap Singh! 
 Feel free to connect with me or check out my projects! 
 
