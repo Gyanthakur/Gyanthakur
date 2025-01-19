@@ -1,12 +1,12 @@
 <div align="center">
   
-[<img src="https://api.gitsponsors.com/api/badge/img?id=700320934" height="20">](https://api.gitsponsors.com/api/badge/link?p=bUtkTsCviWRTKdfZ/bS6brhn1pzNAZ34+TqQs97JFF09t5VnXwbjAMqCbj+EKO9/)
+[<img src="https://api.gitsponsors.com/api/badge/img?id=765606944" height="20">](https://api.gitsponsors.com/api/badge/link?p=SKRGFd7wNHIGGmxiR8r8MyLA6q9Au9B2eSS4PHtRSxjygnSHSrROvQ+0JIxdWz8oaOiRLVsQ9F7/TYb7LcBY+A==)
 
 </div>
 ## 👋 Hi, I'm Gyan Pratap Singh! 
 Feel free to connect with me or check out my projects! 
 
-[<img src="https://api.gitsponsors.com/api/badge/img?id=765606944" height="30">](https://api.gitsponsors.com/api/badge/link?p=SKRGFd7wNHIGGmxiR8r8MyLA6q9Au9B2eSS4PHtRSxjhN01rjXt2wjn0PgXwz+CB)
+
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <a href="https://wa.me/918957818597?text=Hey%20%F0%9F%91%8B%2C%20how%20can%20I%20help%20you%3F">
