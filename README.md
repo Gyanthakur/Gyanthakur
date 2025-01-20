@@ -1,8 +1,4 @@
-<div align="center">
-  
-[<img src="https://api.gitsponsors.com/api/badge/img?id=765606944" height="20">](https://api.gitsponsors.com/api/badge/link?p=SKRGFd7wNHIGGmxiR8r8MyLA6q9Au9B2eSS4PHtRSxjygnSHSrROvQ+0JIxdWz8oaOiRLVsQ9F7/TYb7LcBY+A==)
 
-</div>
 ## 👋 Hi, I'm Gyan Pratap Singh! 
 Feel free to connect with me or check out my projects! 
 
@@ -21,6 +17,13 @@ Feel free to connect with me or check out my projects!
 </div>
 
 I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and the **MERN stack**. Currently pursuing a **Bachelor's in Computer Science & Engineering** at Kamla Nehru Institute of Technology, Sultanpur, I enjoy building innovative solutions, optimizing code, and constantly learning new technologies.
+
+
+<div align="center">
+  
+[<img src="https://api.gitsponsors.com/api/badge/img?id=765606944" height="20">](https://api.gitsponsors.com/api/badge/link?p=SKRGFd7wNHIGGmxiR8r8MyLA6q9Au9B2eSS4PHtRSxjygnSHSrROvQ+0JIxdWz8oaOiRLVsQ9F7/TYb7LcBY+A==)
+
+</div>
 
 ### 🌱 What I'm Working On:
 - Enhancing my skills in **Next.js**, **React.js**, **Vite**, **TailwindCSS**, and **Material UI**, **Aceternity UI**.
