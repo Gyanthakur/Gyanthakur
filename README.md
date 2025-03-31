@@ -25,6 +25,8 @@ I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and
 
 </div>
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gyanthakur?cardType=level-alternate&theme=jolly&preferLogin=true)](https://git.io/awesome-stats-card)
+
 ### 🌱 What I'm Working On:
 - Enhancing my skills in **Next.js**, **React.js**, **Vite**, **TailwindCSS**, and **Material UI**, **Aceternity UI**.
 - Building and optimizing web apps with **MongoDB** and **Supabase**.
