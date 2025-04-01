@@ -25,12 +25,17 @@ I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
 </a>
 
+<br/>
+
   <img src="https://komarev.com/ghpvc/?username=gyanthakur&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+  <br/>
+
 
    <a href="https://wa.me/918957818597?text=Hey%20%F0%9F%91%8B%2C%20how%20can%20I%20help%20you%3F">
     <img src="https://img.shields.io/badge/WhatsApp-Click%20Me-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp" />
   </a>
-  
+  <br/>
+
 [<img src="https://api.gitsponsors.com/api/badge/img?id=765606944" height="30">](https://api.gitsponsors.com/api/badge/link?p=SKRGFd7wNHIGGmxiR8r8MyLA6q9Au9B2eSS4PHtRSxjygnSHSrROvQ+0JIxdWz8oaOiRLVsQ9F7/TYb7LcBY+A==)
 
 
