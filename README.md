@@ -1,9 +1,9 @@
 
 ## 👋 Hi, I'm Gyan Pratap Singh! 
-Feel free to connect with me or check out my projects! 
 
 
 <!--
+Feel free to connect with me or check out my projects! 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <a href="https://wa.me/918957818597?text=Hey%20%F0%9F%91%8B%2C%20how%20can%20I%20help%20you%3F">
     <img src="https://img.shields.io/badge/WhatsApp-Click%20Me-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp" />
@@ -33,9 +33,10 @@ I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and
   <br/>
 
 
-<a href="https://wa.me/918957818597?text=Hello%20%F0%9F%91%8B%2C%20how%20can%20I%20assist%20you%20today%3F">
-    <img src="https://img.shields.io/badge/WhatsApp-Click%20Here-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp" />
+<a href="https://wa.me/918957818597?text=Hello%20Gyan%20%F0%9F%91%8B">
+    <img src="https://img.shields.io/badge/WhatsApp-Click%20Me-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp" />
 </a>
+
 
 
   <br/>
