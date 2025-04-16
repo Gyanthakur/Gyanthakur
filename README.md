@@ -41,7 +41,7 @@ I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and
 
   <br/>
 
-[<img src="https://api.gitsponsors.com/api/badge/img?id=765606944" height="30">](https://api.gitsponsors.com/api/badge/link?p=SKRGFd7wNHIGGmxiR8r8MyLA6q9Au9B2eSS4PHtRSxjygnSHSrROvQ+0JIxdWz8oaOiRLVsQ9F7/TYb7LcBY+A==)
+[<img src="https://api.gitsponsors.com/api/badge/img?id=765606944" height="40">](https://api.gitsponsors.com/api/badge/link?p=SKRGFd7wNHIGGmxiR8r8MyLA6q9Au9B2eSS4PHtRSxjygnSHSrROvQ+0JIxdWz8oaOiRLVsQ9F7/TYb7LcBY+A==)
 
 
 [![Gyan Pratap Singh](https://awesome-github-stats.azurewebsites.net/user-stats/gyanthakur?cardType=level-alternate&theme=jolly&preferLogin=true)](https://git.io/awesome-stats-card)
