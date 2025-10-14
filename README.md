@@ -47,6 +47,9 @@ I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and
 
 </div>
 
+<div>
+  
+<!--
 ### 🌱 What I'm Working On:
 - Enhancing my skills in **Next.js**, **React.js**, **Vite**, **TailwindCSS**, and **Material UI**, **Aceternity UI**.
 - Building and optimizing web apps with **MongoDB** and **Supabase**.
@@ -60,7 +63,40 @@ I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and
 ### 🛠️ Tech Stack:
 - Frontend: **ReactJS**, **Next.js**, **HTML**, **CSS3**, **JavaScript**.
 - Backend: **Node.js**, **Express**, **MongoDB**.
-- Tools: **Git**, **GitHub**, **Postman**, **Clerk**, **Supabase**, **Convex**.
+- Tools: **Git**, **GitHub**, **Postman**, **Clerk**, **Supabase**, **Convex**. -->
+
+<div align="center">
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 🌱 What I'm Working On:
+- Enhancing my skills in **Next.js**, **React.js**, **Vite**, **TailwindCSS**, **Material UI**, and **Aceternity UI**.
+- Building and optimizing web apps with **MongoDB** and **Supabase**.
+- Contributing to **open-source projects** and participating in hackathons.
+
+### 💡 Interests:
+- Problem-solving and algorithmic challenges.  
+- Creating responsive, dynamic UIs with an emphasis on user experience.  
+- API development and integration with tools like **Postman**.
+
+### 🛠️ Tech Stack:
+- **Frontend:** ReactJS, Next.js, HTML, CSS3, JavaScript  
+- **Backend:** Node.js, Express, MongoDB  
+- **Tools:** Git, GitHub, Postman, Clerk, Supabase, Convex  
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://github.com/user-attachments/assets/03f45fe0-75af-4032-add9-e71273aefa39" alt="lap01" width="300"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
 
   ### Connect with me:
 
