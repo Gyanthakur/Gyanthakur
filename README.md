@@ -65,32 +65,24 @@ I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and
 - Backend: **Node.js**, **Express**, **MongoDB**.
 - Tools: **Git**, **GitHub**, **Postman**, **Clerk**, **Supabase**, **Convex**. -->
 
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+<!-- image first: float it to the right -->
+<img src="https://github.com/user-attachments/assets/03f45fe0-75af-4032-add9-e71273aefa39" alt="lap01" align="right" width="300" />
 
-  <div style="flex: 1; min-width: 280px;">
+### 🌱 What I'm Working On:
+- Enhancing my skills in **Next.js**, **React.js**, **Vite**, **TailwindCSS**, **Material UI**, and **Aceternity UI**.
+- Building and optimizing web apps with **MongoDB** and **Supabase**.
+- Contributing to **open-source projects** and participating in hackathons.
 
-  ### 🌱 What I'm Working On:
-  - Enhancing my skills in **Next.js**, **React.js**, **Vite**, **TailwindCSS**, **Material UI**, and **Aceternity UI**.
-  - Building and optimizing web apps with **MongoDB** and **Supabase**.
-  - Contributing to **open-source projects** and participating in hackathons.
+### 💡 Interests:
+- Problem-solving and algorithmic challenges.  
+- Creating responsive, dynamic UIs with an emphasis on user experience.  
+- API development and integration with tools like **Postman**.
 
-  ### 💡 Interests:
-  - Problem-solving and algorithmic challenges.  
-  - Creating responsive, dynamic UIs with an emphasis on user experience.  
-  - API development and integration with tools like **Postman**.
+### 🛠️ Tech Stack:
+- **Frontend:** ReactJS, Next.js, HTML, CSS3, JavaScript  
+- **Backend:** Node.js, Express, MongoDB  
+- **Tools:** Git, GitHub, Postman, Clerk, Supabase, Convex  
 
-  ### 🛠️ Tech Stack:
-  - **Frontend:** ReactJS, Next.js, HTML, CSS3, JavaScript  
-  - **Backend:** Node.js, Express, MongoDB  
-  - **Tools:** Git, GitHub, Postman, Clerk, Supabase, Convex  
-
-  </div>
-
-  <div style="flex: 1; text-align: right; min-width: 250px;">
-    <img src="https://github.com/user-attachments/assets/03f45fe0-75af-4032-add9-e71273aefa39" alt="lap01" width="300" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" />
-  </div>
-
-</div>
 
 
 
