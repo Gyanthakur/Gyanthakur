@@ -86,7 +86,7 @@ I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and
 
   </div>
 
-  <div style="flex: 1; text-align: center; min-width: 250px;">
+  <div style="flex: 1; text-align: right; min-width: 250px;">
     <img src="https://github.com/user-attachments/assets/03f45fe0-75af-4032-add9-e71273aefa39" alt="lap01" width="300" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" />
   </div>
 
