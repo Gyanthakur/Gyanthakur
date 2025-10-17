@@ -271,10 +271,15 @@ I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and
     </a>
 </div>
 
+<!--
+<img width="426" height="243" alt="Screenshot 2023-09-25 234349" src="https://github.com/user-attachments/assets/913b7215-8d93-4c1a-9edd-3ec99d31fd67" />
 
  <br>
  
  [![Gyanthakur's GitHub | Topics Over Time](https://stats.quine.sh/Gyanthakur/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gyanthakur)
+
+ -->
+  [![Gyanthakur's GitHub | Topics Over Time](https://github.com/user-attachments/assets/913b7215-8d93-4c1a-9edd-3ec99d31fd67)](https://quine.sh?utm_source=widgets&utm_campaign=Gyanthakur)
  
  <br>
  
