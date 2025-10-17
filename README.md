@@ -262,21 +262,18 @@ I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and
 <br>
 
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
   <a href="https://quine.sh?utm_source=widgets&utm_campaign=Gyanthakur">
-    <img src="https://github.com/user-attachments/assets/23e4cac0-b58a-4a63-91d7-8d8958d499bc" alt="Dependencies" width="300" />
+    <img src="https://github.com/user-attachments/assets/23e4cac0-b58a-4a63-91d7-8d8958d499bc" alt="Dependencies" style="width: 30%; min-width: 200px; height: auto;" />
   </a>
-
   <a href="https://quine.sh?utm_source=widgets&utm_campaign=Gyanthakur">
-    <img src="https://github.com/user-attachments/assets/913b7215-8d93-4c1a-9edd-3ec99d31fd67" alt="Topics Over Time" width="300" />
+    <img src="https://github.com/user-attachments/assets/913b7215-8d93-4c1a-9edd-3ec99d31fd67" alt="Topics Over Time" style="width: 30%; min-width: 200px; height: auto;" />
   </a>
-
   <a href="https://quine.sh?utm_source=widgets&utm_campaign=Gyanthakur">
-    <img src="https://github.com/user-attachments/assets/0b16c1e1-d1ac-4b04-89e6-fc9f24c99b4d" alt="Languages Over Time" width="300" />
+    <img src="https://github.com/user-attachments/assets/0b16c1e1-d1ac-4b04-89e6-fc9f24c99b4d" alt="Languages Over Time" style="width: 30%; min-width: 200px; height: auto;" />
   </a>
-
 </div>
+
 
 
 <br>
