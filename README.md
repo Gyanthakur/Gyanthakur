@@ -262,22 +262,22 @@ I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and
 <br>
 
 
-<div style="display: flex; justify-content: space-between;">
-    <a href="https://quine.sh?utm_source=widgets&utm_campaign=Gyanthakur">
-        <img src="https://github.com/user-attachments/assets/23e4cac0-b58a-4a63-91d7-8d8958d499bc" alt="Gyanthakur's GitHub | Dependencies" width="45%" />
-    </a>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <a href="https://quine.sh?utm_source=widgets&utm_campaign=Gyanthakur">
+    <img src="https://github.com/user-attachments/assets/23e4cac0-b58a-4a63-91d7-8d8958d499bc" alt="Dependencies" width="300" />
+  </a>
+
+  <a href="https://quine.sh?utm_source=widgets&utm_campaign=Gyanthakur">
+    <img src="https://github.com/user-attachments/assets/913b7215-8d93-4c1a-9edd-3ec99d31fd67" alt="Topics Over Time" width="300" />
+  </a>
+
+  <a href="https://quine.sh?utm_source=widgets&utm_campaign=Gyanthakur">
+    <img src="https://github.com/user-attachments/assets/0b16c1e1-d1ac-4b04-89e6-fc9f24c99b4d" alt="Languages Over Time" width="300" />
+  </a>
+
 </div>
 
-<br>
-
-
-  [![Gyanthakur's GitHub | Topics Over Time](https://github.com/user-attachments/assets/913b7215-8d93-4c1a-9edd-3ec99d31fd67)](https://quine.sh?utm_source=widgets&utm_campaign=Gyanthakur)
-
-
- 
- <br>
- 
-[![Gyanthakur's GitHub | Languages Over Time](https://github.com/user-attachments/assets/0b16c1e1-d1ac-4b04-89e6-fc9f24c99b4d)](https://quine.sh?utm_source=widgets&utm_campaign=Gyanthakur)
 
 <br>
 
