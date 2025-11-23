@@ -83,7 +83,22 @@ I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and
 ### 🛠️ Tech Stack:
 - **Frontend:** ReactJS, Next.js, HTML, CSS3, JavaScript  
 - **Backend:** Node.js, Express, MongoDB  
-- **Tools:** Git, GitHub, Postman, Clerk, Supabase, Convex  
+- **Tools:** Git, GitHub, Postman, Clerk, Supabase, Convex
+
+
+## Top Projects
+
+[![Edemy-LMS](https://github-readme-stats.vercel.app/api/pin/?username=Gyanthakur&repo=Edemy-LMS&theme=dark)](https://github.com/Gyanthakur/Edemy-LMS)
+[![CureConnect](https://github-readme-stats.vercel.app/api/pin/?username=Gyanthakur&repo=CureConnect&theme=dark)](https://github.com/Gyanthakur/CureConnect)
+
+[![GFG_POTD](https://github-readme-stats.vercel.app/api/pin/?username=Gyanthakur&repo=GFG_POTD&theme=dark)](https://github.com/Gyanthakur/GFG_POTD)
+[![component-library](https://github-readme-stats.vercel.app/api/pin/?username=Gyanthakur&repo=component-library&theme=dark)](https://github.com/Gyanthakur/component-library)
+
+[![mock-ecom-cart](https://github-readme-stats.vercel.app/api/pin/?username=Gyanthakur&repo=mock-ecom-cart&theme=dark)](https://github.com/Gyanthakur/mock-ecom-cart)
+[![Dev_Profiles](https://github-readme-stats.vercel.app/api/pin/?username=Gyanthakur&repo=Dev_Profiles&theme=dark)](https://github.com/Gyanthakur/Dev_Profiles)
+
+[![awesome-dsa-solutions](https://github-readme-stats.vercel.app/api/pin/?username=Gyanthakur&repo=awesome-dsa-solutions&theme=dark)](https://github.com/Gyanthakur/awesome-dsa-solutions)
+
 
 
 
