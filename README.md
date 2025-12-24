@@ -98,6 +98,7 @@ I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and
 [![Dev_Profiles](https://github-readme-stats.vercel.app/api/pin/?username=Gyanthakur&repo=Dev_Profiles&theme=dark)](https://github.com/Gyanthakur/Dev_Profiles)
 
 [![awesome-dsa-solutions](https://github-readme-stats.vercel.app/api/pin/?username=Gyanthakur&repo=awesome-dsa-solutions&theme=dark)](https://github.com/Gyanthakur/awesome-dsa-solutions)
+[![Flip-Earn](https://github-readme-stats.vercel.app/api/pin/?username=Gyanthakur&repo=Flip-Earn&theme=dark)](https://github.com/Gyanthakur/Flip-Earn)
 
 
 
