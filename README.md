@@ -88,6 +88,19 @@ I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and
 
 ## Top Projects
 
+
+[![Edemy-LMS](https://img.shields.io/badge/Edemy%20LMS-Learning-blueviolet?style=for-the-badge&logo=react)](https://github.com/Gyanthakur/Edemy-LMS)
+[![CureConnect](https://img.shields.io/badge/CureConnect-Healthcare-success?style=for-the-badge&logo=medibadge)](https://github.com/Gyanthakur/CureConnect)
+[![GFG_POTD](https://img.shields.io/badge/GFG_POTD-Coding%20Practice-yellow?style=for-the-badge&logo=git)](https://github.com/Gyanthakur/GFG_POTD)
+[![component-library](https://img.shields.io/badge/Component%20Library-UI-blue?style=for-the-badge&logo=react)](https://github.com/Gyanthakur/component-library)
+
+[![mock-ecom-cart](https://img.shields.io/badge/Mock%20Ecom%20Cart-Shopping-orange?style=for-the-badge&logo=shopify)](https://github.com/Gyanthakur/mock-ecom-cart)
+[![Dev_Profiles](https://img.shields.io/badge/Dev_Profiles-Portfolio-lightgrey?style=for-the-badge&logo=github)](https://github.com/Gyanthakur/Dev_Profiles)
+[![awesome-dsa-solutions](https://img.shields.io/badge/DSA%20Solutions-Algorithm-red?style=for-the-badge&logo=leetcode)](https://github.com/Gyanthakur/awesome-dsa-solutions)
+[![Flip-Earn](https://img.shields.io/badge/Flip--Earn-Earning%20Platform-orange?style=for-the-badge&logo=bitcoin)](https://github.com/Gyanthakur/Flip-Earn)
+
+___
+
 [![Edemy-LMS](https://github-readme-stats.vercel.app/api/pin/?username=Gyanthakur&repo=Edemy-LMS&theme=dark)](https://github.com/Gyanthakur/Edemy-LMS)
 [![CureConnect](https://github-readme-stats.vercel.app/api/pin/?username=Gyanthakur&repo=CureConnect&theme=dark)](https://github.com/Gyanthakur/CureConnect)
 
