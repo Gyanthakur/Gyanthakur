@@ -15,7 +15,7 @@
 -->
 
 
-I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and the **MERN stack**. Currently pursuing a **Bachelor's in Computer Science & Engineering** at Kamla Nehru Institute of Technology, Sultanpur, I enjoy building innovative solutions, optimizing code, and constantly learning new technologies.
+### I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and the **MERN stack**. Currently pursuing a **Bachelor's in Computer Science & Engineering** at Kamla Nehru Institute of Technology, Sultanpur, I enjoy building innovative solutions, optimizing code, and constantly learning new technologies.
 
 
 <div align="center">
