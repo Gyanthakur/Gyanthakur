@@ -3,9 +3,14 @@
 
 
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Gyan+Pratap+Singh;Full+Stack+Web+Developer;Open+Source+Contributor;Always+Open+to+Collaborations;Let's+Build+Something+Awesome+🚀" alt="Typing SVG" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Gyan+Pratap+Singh;Full+Stack+Web+Developer;Open+Source+Contributor;Always+Open+to+Collaborations;Let's+Build+Something+Awesome+🚀" alt="Typing" /> </p>
 
-  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Gyan+Pratap+Singh;Full+Stack+Web+Developer;Open+Source+Contributor;Always+Open+to+Collaborations;Let's+Build+Something+Awesome&v=2" alt="Typing" />
+</p>
+
+
+  <!---
   <a href="https://www.linkedin.com/in/gyan-pratap-singh-4549471b1/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
   </a>
@@ -15,7 +20,7 @@
 -->
 
 
-### I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and the **MERN stack**. Currently pursuing a **Bachelor's in Computer Science & Engineering** at Kamla Nehru Institute of Technology, Sultanpur, I enjoy building innovative solutions, optimizing code, and constantly learning new technologies.
+I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and the **MERN stack**. Currently pursuing a **Bachelor's in Computer Science & Engineering** at Kamla Nehru Institute of Technology, Sultanpur, I enjoy building innovative solutions, optimizing code, and constantly learning new technologies.
 
 
 <div align="center">
@@ -326,11 +331,11 @@ ___
 
 <p align="center">
   <!-- Light mode -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0D1117&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Gyan+Pratap+Singh;Full+Stack+Web+Developer;Open+Source+Contributor;Always+Open+to+Collaborations;Let's+Build+Something+Awesome+🚀#gh-light-mode-only" alt="Typing SVG Light" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0D1117&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Gyan+Pratap+Singh;Full+Stack+Web+Developer;Open+Source+Contributor;Always+Open+to+Collaborations;Let's+Build+Something+Awesome+🚀#gh-light-mode-only" alt="Typing" />
 
   <!-- Dark mode -->
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Gyan+Pratap+Singh;Full+Stack+Web+Developer;Open+Source+Contributor;Always+Open+to+Collaborations;Let's+Build+Something+Awesome+🚀#gh-dark-mode-only" alt="Typing SVG Dark" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Gyan+Pratap+Singh;Full+Stack+Web+Developer;Open+Source+Contributor;Always+Open+to+Collaborations;Let's+Build+Something+Awesome+🚀#gh-dark-mode-only" alt="Typing" />
 </p>
 
 <p align="center">
