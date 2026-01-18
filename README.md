@@ -97,6 +97,18 @@ I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and
 [![Dev_Profiles](https://img.shields.io/badge/Dev_Profiles-Portfolio-lightgrey?style=for-the-badge&logo=github)](https://github.com/Gyanthakur/Dev_Profiles)
 [![awesome-dsa-solutions](https://img.shields.io/badge/DSA%20Solutions-Algorithm-red?style=for-the-badge&logo=leetcode)](https://github.com/Gyanthakur/awesome-dsa-solutions)
 [![Flip-Earn](https://img.shields.io/badge/Flip--Earn-Earning%20Platform-orange?style=for-the-badge&logo=bitcoin)](https://github.com/Gyanthakur/Flip-Earn)
+[![Go-Projects](https://img.shields.io/badge/Go%20Projects-Backend%20Utilities-blue?style=for-the-badge&logo=go)](https://github.com/Gyanthakur/Go-Projects)
+[![ImageGenesis](https://img.shields.io/badge/ImageGenesis-AI%20Image%20Generator-purple?style=for-the-badge&logo=openai)](https://github.com/Gyanthakur/ImageGenesis)
+[![MediaHub](https://img.shields.io/badge/MediaHub-Social%20Media%20Assignment-pink?style=for-the-badge&logo=instagram)](https://github.com/Gyanthakur/Finsocial-Assignment-MediaHub-)
+[![AgriConnect](https://img.shields.io/badge/AgriConnect-AgroTech%20Platform-green?style=for-the-badge&logo=leaflet)](https://github.com/Gyanthakur/AgriConnect)
+[![Career-Mentorship](https://img.shields.io/badge/Career%20Mentorship-Guidance%20Platform-indigo?style=for-the-badge&logo=google-scholar)](https://github.com/Gyanthakur/career-mentorship-app)
+[![Notes-Store](https://img.shields.io/badge/Notes%20Store-Document%20Management-yellow?style=for-the-badge&logo=notion)](https://github.com/Gyanthakur/notes_store)
+[![User-Stats](https://img.shields.io/badge/User%20Stats-GitHub%20Analytics-teal?style=for-the-badge&logo=github)](https://github.com/Gyanthakur/User-Stats)
+[![Git-Practice](https://img.shields.io/badge/Git%20Practice-Version%20Control-black?style=for-the-badge&logo=git)](https://github.com/Gyanthakur/Git-Practice)
+[![ClearBg](https://img.shields.io/badge/ClearBg-Background%20Remover-red?style=for-the-badge&logo=adobe)](https://github.com/Gyanthakur/ClearBg)
+[![GATE-Notes](https://img.shields.io/badge/GATE%20Notes-CS%20%26%20IT%20Prep-orange?style=for-the-badge&logo=bookstack)](https://github.com/Gyanthakur/Gate_Notes-CS-IT)
+[![Your-Cafe](https://img.shields.io/badge/Your%20Cafe-Food%20Ordering%20App-brown?style=for-the-badge&logo=coffeescript)](https://github.com/Gyanthakur/your-cafe)
+
 
 ___
 
