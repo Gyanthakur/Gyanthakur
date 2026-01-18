@@ -41,23 +41,16 @@ I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and
 
 </div>
 
+
+[![An image of @gyansingh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gyansingh)](https://holopin.io/@gyansingh)
+
+
+
+
+
 <div>
   
-<!--
-### 🌱 What I'm Working On:
-- Enhancing my skills in **Next.js**, **React.js**, **Vite**, **TailwindCSS**, and **Material UI**, **Aceternity UI**.
-- Building and optimizing web apps with **MongoDB** and **Supabase**.
-- Contributing to **open-source projects** and participating in hackathon.
 
-### 💡 Interests:
-- Problem-solving and algorithmic challenges.
-- Creating responsive, dynamic UIs with an emphasis on user experience.
-- API development and integration with tools like **Postman**.
-
-### 🛠️ Tech Stack:
-- Frontend: **ReactJS**, **Next.js**, **HTML**, **CSS3**, **JavaScript**.
-- Backend: **Node.js**, **Express**, **MongoDB**.
-- Tools: **Git**, **GitHub**, **Postman**, **Clerk**, **Supabase**, **Convex**. -->
 
 <!-- image first: float it to the right -->
 <img src="https://github.com/user-attachments/assets/03f45fe0-75af-4032-add9-e71273aefa39" alt="lap01" align="right" width="300" />
@@ -245,11 +238,6 @@ ___
 
 
 <p align="center"> <img src="https://profile-counter.glitch.me/Gyanthakur/count.svg" alt="gyanthakur" /> </p>
-
-
-
-
-[![An image of @gyansingh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gyansingh)](https://holopin.io/@gyansingh)
 
 
 
