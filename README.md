@@ -44,7 +44,7 @@ I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and
 
 [![An image of @gyansingh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gyansingh)](https://holopin.io/@gyansingh)
 
-
+ <p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gyanthakur&theme=juicyfresh&margin-w=10" alt="gyanthakur" /></a> </p> 
 
 
 
@@ -246,7 +246,7 @@ ___
 
 
 
- <p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gyanthakur&theme=juicyfresh&margin-w=10" alt="gyanthakur" /></a> </p> 
+
 
  
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gyanthakur&theme=aura)
