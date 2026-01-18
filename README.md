@@ -87,7 +87,7 @@ I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and
 [![ImageGenesis](https://img.shields.io/badge/ImageGenesis-AI%20Image%20Generator-purple?style=for-the-badge&logo=openai)](https://github.com/Gyanthakur/ImageGenesis)
 [![Dev_Profiles](https://img.shields.io/badge/Dev_Profiles-Portfolio-lightgrey?style=for-the-badge&logo=github)](https://github.com/Gyanthakur/Dev_Profiles)
 [![awesome-dsa-solutions](https://img.shields.io/badge/DSA%20Solutions-Algorithm-red?style=for-the-badge&logo=leetcode)](https://github.com/Gyanthakur/awesome-dsa-solutions)
-[![Go-Projects](https://img.shields.io/badge/Go%20Projects-Backend%20Utilities-blue?style=for-the-badge&logo=go)](https://github.com/Gyanthakur/Go-Projects)
+[![Go-Projects](https://img.shields.io/badge/Go%20Projects-My%20All%20Projects-blue?style=for-the-badge&logo=go)](https://github.com/Gyanthakur/Go-Projects)
 [![MediaHub](https://img.shields.io/badge/MediaHub-Social%20Media%20Assignment-pink?style=for-the-badge&logo=instagram)](https://github.com/Gyanthakur/Finsocial-Assignment-MediaHub-)
 [![AgriConnect](https://img.shields.io/badge/AgriConnect-AgroTech%20Platform-green?style=for-the-badge&logo=leaflet)](https://github.com/Gyanthakur/AgriConnect)
 [![Career-Mentorship](https://img.shields.io/badge/Career%20Mentorship-Guidance%20Platform-indigo?style=for-the-badge&logo=google-scholar)](https://github.com/Gyanthakur/career-mentorship-app)
