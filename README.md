@@ -390,30 +390,17 @@ ___
 
 
 <p align="center">
-  <!-- Light mode badges -->
-  <a href="https://wa.me/918957818597?text=Hey%20%F0%9F%91%8B%2C%20how%20can%20I%20help%20you%3F#gh-light-mode-only">
-    <img src="https://img.shields.io/badge/WhatsApp-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="mailto:gps.96169@gmail.com#gh-light-mode-only">
-    <img src="https://img.shields.io/badge/Gmail-B3261E?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/gyan-pratap-singh-275785236/#gh-light-mode-only">
-    <img src="https://img.shields.io/badge/LinkedIn-004182?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- Dark mode badges -->
-  <a href="https://wa.me/918957818597?text=Hey%20%F0%9F%91%8B%2C%20how%20can%20I%20help%20you%3F#gh-dark-mode-only">
+  <a href="https://wa.me/918957818597?text=Hey%20%F0%9F%91%8B%2C%20how%20can%20I%20help%20you%3F">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="mailto:gps.96169@gmail.com#gh-dark-mode-only">
+  <a href="mailto:gps.96169@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/gyan-pratap-singh-275785236/#gh-dark-mode-only">
+  <a href="https://www.linkedin.com/in/gyan-pratap-singh-275785236/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/Gyanthakur">
