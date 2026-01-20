@@ -41,7 +41,9 @@ I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and
 
 </div>
 
-[![An image of @gyansingh's Holopin badges, which is a link to view their full Holopin profile](https://boards.holopin.io/gyansingh)](https://boards.holopin.io/gyansingh)
+<p><a href="https://holopin.io/@gyansingh">
+<img width="2428" height="764" alt="image" src="https://github.com/user-attachments/assets/9d7bd919-889b-45c1-901f-9f6eafb538ee" />
+</a></p>
 
 [![An image of @gyansingh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gyansingh)](https://holopin.io/@gyansingh)
 
