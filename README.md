@@ -19,6 +19,9 @@
 I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and the **MERN stack**. Currently pursuing a **Bachelor's in Computer Science & Engineering** at Kamla Nehru Institute of Technology, Sultanpur, I enjoy building innovative solutions, optimizing code, and constantly learning new technologies.
 
 
+[![An image of @gyansingh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gyansingh)](https://holopin.io/@gyansingh)
+
+
 <div align="center">
 
  <a href="https://www.linkedin.com/in/gyan-pratap-singh-4549471b1/">
@@ -48,13 +51,6 @@ I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and
 
 
 
-<div>
-
-[![An image of @gyansingh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gyansingh)](https://holopin.io/@gyansingh)
-  
-</div>
-
-[![An image of @gyansingh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gyansingh)](https://holopin.io/@gyansingh)
 
  <p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gyanthakur&theme=juicyfresh&margin-w=10" alt="gyanthakur" /></a> </p> 
 
