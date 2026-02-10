@@ -178,8 +178,6 @@ ___
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge\&logo=threedotjs)
 ![Spline](https://img.shields.io/badge/Spline-FF6D00?style=for-the-badge)
 
----
-
 ### 🧠 Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
@@ -187,8 +185,6 @@ ___
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 ![Convex](https://img.shields.io/badge/Convex-111827?style=for-the-badge)
-
----
 
 ### 🗄️ Database & ORM
 
@@ -198,15 +194,12 @@ ___
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma)
 
----
 
 ### 🔐 Authentication & Security
 
 ![Clerk](https://img.shields.io/badge/Clerk-3A2EFF?style=for-the-badge\&logo=clerk)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens)
 ![Google Auth](https://img.shields.io/badge/Google%20Auth-4285F4?style=for-the-badge\&logo=google)
-
----
 
 ### 💳 Payments & Services
 
@@ -217,7 +210,6 @@ ___
 ![Nodemailer](https://img.shields.io/badge/Nodemailer-22B573?style=for-the-badge)
 ![Inngest](https://img.shields.io/badge/Inngest-111827?style=for-the-badge)
 
----
 
 ### ⚙️ DevOps & Tools
 
@@ -227,8 +219,6 @@ ___
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Postman API](https://img.shields.io/badge/Postman-API-orange?style=for-the-badge\&logo=postman)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
-
----
 
 ### 🧠 CS & Other
 
