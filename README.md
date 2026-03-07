@@ -62,9 +62,16 @@ I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and
 - Contributing to **open-source projects** and participating in hackathons.
 
 ### 💡 Interests:
-- Problem-solving and algorithmic challenges.  
-- Creating responsive, dynamic UIs with an emphasis on user experience.  
-- API development and integration with tools like **Postman**.
+- 🧠 Problem-solving and algorithmic challenges (DSA, competitive programming)
+- 💻 Building scalable full-stack web applications using modern frameworks
+- 🎨 Creating responsive and dynamic UIs with strong user experience focus
+- 🔗 API development, testing, and integration using tools like Postman
+- 🚀 Exploring new web technologies and improving development workflows
+- 🌍 Contributing to open-source and collaborating with developer communities
+- ⚡ Optimizing performance and writing clean, maintainable code
+- 🏗️ Learning system design and software architecture
+- 🏆 Participating in hackathons and technical community events
+- 📚 Continuous learning and staying updated with the latest tech trends
 
 ### 🛠️ Tech Stack:
 - **Frontend:** ReactJS, Next.js, HTML, CSS3, JavaScript  
